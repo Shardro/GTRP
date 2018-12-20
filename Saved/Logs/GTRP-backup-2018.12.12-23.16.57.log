@@ -1,0 +1,1121 @@
+﻿Log file open, 12/09/18 23:16:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GTRP
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.872542
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin VictoryBPLibrary
+LogStreaming: Display: Took  0.441s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 980 Ti
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.09-23.16.11:625][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.09-23.16.11:625][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.09-23.16.11:704][  0]LogHAL: Display: Platform has ~ 16 GB [17116696576 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.09-23.16.11:751][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.09-23.16.11:752][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.09-23.16.11:830][  0]LogInit: Computer: VIGOR-VANQUISH
+[2018.12.09-23.16.11:830][  0]LogInit: User: James
+[2018.12.09-23.16.11:830][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.09-23.16.11:830][  0]LogInit: High frequency timer resolution =3.514605 MHz
+[2018.12.09-23.16.11:830][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.09-23.16.11:838][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.09-23.16.11:838][  0]LogMemory: Process Physical Memory: 107.05 MB used, 107.05 MB peak
+[2018.12.09-23.16.11:838][  0]LogMemory: Process Virtual Memory: 103.60 MB used, 103.60 MB peak
+[2018.12.09-23.16.11:838][  0]LogMemory: Physical Memory: 5421.23 MB used,  10902.52 MB free, 16323.75 MB total
+[2018.12.09-23.16.11:838][  0]LogMemory: Virtual Memory: 4668.61 MB used,  10902.52 MB free, 134217728.00 MB total
+[2018.12.09-23.16.12:325][  0]LogInit: Using OS detected language (en-GB).
+[2018.12.09-23.16.12:325][  0]LogInit: Using OS detected locale (en-GB).
+[2018.12.09-23.16.12:374][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.12.09-23.16.13:159][  0]LogStreaming: Display: Took  0.853s to InitEngineTextLocalization.
+[2018.12.09-23.16.13:160][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.09-23.16.13:804][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.09-23.16.13:804][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.09-23.16.21:092][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.09-23.16.21:145][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2018.12.09-23.16.21:145][  0]LogD3D11RHI:       6097/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.09-23.16.21:147][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.09-23.16.21:147][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.09-23.16.21:147][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.09-23.16.21:174][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.09-23.16.21:175][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.09-23.16.21:185][  0]LogWindows: EnumDisplayDevices:
+[2018.12.09-23.16.21:185][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2018.12.09-23.16.21:186][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2018.12.09-23.16.21:186][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.12.09-23.16.21:186][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.12.09-23.16.21:186][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.09-23.16.21:186][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2018.12.09-23.16.21:186][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2018.12.09-23.16.21:187][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2018.12.09-23.16.21:187][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2018.12.09-23.16.21:341][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.09-23.16.21:588][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.09-23.16.21:726][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/James/Documents/Unreal Projects/GTRP/Intermediate/Shaders/WorkingDirectory/4692/).
+[2018.12.09-23.16.21:726][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/James/AppData/Local/Temp/UnrealShaderWorkingDir/F6351B9848E2D2C14B676EB3E29FAA2C/'.
+[2018.12.09-23.16.22:995][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.09-23.16.23:027][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.09-23.16.23:047][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.09-23.16.23:068][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.09-23.16.23:106][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.09-23.16.23:134][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.09-23.16.23:153][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.09-23.16.23:176][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.09-23.16.23:192][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:341][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-23.16.23:381][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.09-23.16.23:518][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.09-23.16.23:518][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.09-23.16.23:561][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.09-23.16.23:561][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.09-23.16.23:586][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.09-23.16.23:602][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.09-23.16.23:622][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.09-23.16.23:654][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.09-23.16.23:682][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.09-23.16.23:682][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.09-23.16.24:293][  0]LogXGEController: Cleaning working directory: C:/Users/James/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.09-23.16.24:293][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.09-23.16.24:293][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.09-23.16.24:293][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.09-23.16.28:737][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.09-23.16.29:350][  0]LogDerivedDataCache: Loaded boot cache 0.61s 71MB C:/Users/James/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.09-23.16.29:350][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/James/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.09-23.16.29:350][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/James/Documents/Unreal Projects/GTRP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.09-23.16.29:350][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.09-23.16.29:350][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/James/Documents/Unreal Projects/GTRP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.09-23.16.29:350][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.09-23.16.29:405][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.09-23.16.29:437][  0]LogDerivedDataCache: Using Local data cache path C:/Users/James/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.09-23.16.29:437][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.09-23.16.29:437][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.09-23.16.29:494][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.09-23.16.29:553][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.09-23.16.29:623][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.09-23.16.32:113][  0]LogAssetRegistry: FAssetRegistry took 0.0335 seconds to start up
+[2018.12.09-23.16.35:729][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.09-23.16.39:107][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.09-23.16.39:393][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.09-23.16.39:394][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.09-23.16.39:395][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.09-23.16.39:395][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.09-23.16.40:291][  0]LogNetVersion: GTRP 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3875077618)
+[2018.12.09-23.16.45:847][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.228328 seconds
+[2018.12.09-23.16.45:898][  0]LogUObjectArray: 38434 objects as part of root set at end of initial load.
+[2018.12.09-23.16.45:898][  0]LogUObjectAllocator: 6701144 out of 0 bytes used by permanent object pool.
+[2018.12.09-23.16.45:898][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.09-23.17.15:133][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.09-23.17.15:148][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.09-23.17.18:080][  0]SourceControl: Source control is disabled
+[2018.12.09-23.17.18:080][  0]SourceControl: Source control is disabled
+[2018.12.09-23.17.18:135][  0]SourceControl: Source control is disabled
+[2018.12.09-23.17.18:146][  0]SourceControl: Source control is disabled
+[2018.12.09-23.17.19:119][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.09-23.17.19:330][  0]LogOcInput: OculusInput pre-init called
+[2018.12.09-23.17.19:878][  0]LogEngine: Initializing Engine...
+[2018.12.09-23.17.20:004][  0]LogHMD: Oculus plugin initialized. Version: 4.20.3-4369336+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2018.12.09-23.17.20:024][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.007 s
+[2018.12.09-23.17.20:024][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.09-23.17.20:024][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.09-23.17.20:024][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2018.12.09-23.17.21:029][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.09-23.17.21:190][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.09-23.17.21:236][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-23.17.21:251][  0]LogInit: FAudioDevice initialized.
+[2018.12.09-23.17.21:275][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.09-23.17.21:385][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/James/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.09-23.17.21:388][  0]LogInit: Texture streaming: Enabled
+[2018.12.09-23.17.21:536][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.09-23.17.21:662][  0]LogInit: Transaction tracking system initialized
+[2018.12.09-23.17.21:906][  0]BlueprintLog: New page: Editor Load
+[2018.12.09-23.17.22:670][  0]LocalizationService: Localization service is disabled
+[2018.12.09-23.17.27:305][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.09-23.17.27:305][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.09-23.17.27:327][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/GTRP/Content/' took 0.04s
+[2018.12.09-23.17.27:327][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.09-23.17.27:327][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.09-23.17.27:327][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.09-23.17.27:327][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.09-23.17.27:327][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.09-23.17.31:506][  0]SourceControl: Source control is disabled
+[2018.12.09-23.17.31:520][  0]Cmd: MAP LOAD FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Maps/House.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.09-23.17.31:533][  0]LightingResults: New page: Lighting Build
+[2018.12.09-23.17.31:553][  0]MapCheck: New page: Map Check
+[2018.12.09-23.17.31:553][  0]LightingResults: New page: Lighting Build
+[2018.12.09-23.17.32:403][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/CharacterBP/Blueprints/GTController.GTController_C:SpawnCharacter.CharacterData'. Unknown structure.
+[2018.12.09-23.17.32:403][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/CharacterBP/Blueprints/GTController.GTController_C:ExecuteUbergraph_GTController.K2Node_CustomEvent_CharacterData'. Unknown structure.
+[2018.12.09-23.17.32:466][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Heads/Head1'
+[2018.12.09-23.17.32:466][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Heads/Head1'
+[2018.12.09-23.17.32:467][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Extras/Neck1'
+[2018.12.09-23.17.32:467][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Extras/Neck1'
+[2018.12.09-23.17.32:467][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Torso_Upper/UpperTorso1'
+[2018.12.09-23.17.32:467][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Torso_Upper/UpperTorso1'
+[2018.12.09-23.17.32:467][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Torso_Lower/LowerTorso1'
+[2018.12.09-23.17.32:467][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Torso_Lower/LowerTorso1'
+[2018.12.09-23.17.32:467][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Eyes/Eye1'
+[2018.12.09-23.17.32:468][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Eyes/Eye1'
+[2018.12.09-23.17.32:468][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Arms/UpperArm1'
+[2018.12.09-23.17.32:468][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Arms/UpperArm1'
+[2018.12.09-23.17.32:468][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Arms/LowerArm1'
+[2018.12.09-23.17.32:468][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Arms/LowerArm1'
+[2018.12.09-23.17.32:468][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Legs/UpperLeg1'
+[2018.12.09-23.17.32:468][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Legs/UpperLeg1'
+[2018.12.09-23.17.32:469][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Legs/LowerLeg1'
+[2018.12.09-23.17.32:469][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Legs/LowerLeg1'
+[2018.12.09-23.17.32:469][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Hands/FrontResting1'
+[2018.12.09-23.17.32:469][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Hands/FrontResting1'
+[2018.12.09-23.17.32:469][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Hands/BackResting1'
+[2018.12.09-23.17.32:469][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Hands/BackResting1'
+[2018.12.09-23.17.32:469][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Feet/FrontFoot1'
+[2018.12.09-23.17.32:470][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Feet/FrontFoot1'
+[2018.12.09-23.17.32:470][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Feet/BackFoot1'
+[2018.12.09-23.17.32:470][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Feet/BackFoot1'
+[2018.12.09-23.17.32:650][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/GameData/SaveData/CharacterData.CharacterData_C:SavedCharacters.SavedCharacters'. Unknown structure.
+[2018.12.09-23.17.33:816][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/UI/Menu/Menu.Menu_C:PopulateCharacterList.CallFunc_Array_Get_Item'. Unknown structure.
+[2018.12.09-23.17.35:613][  0]LogClass: Warning: Property SavedCharacters of SavedCharacters has a struct type mismatch (tag FallbackStruct != prop CharacterStruct) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.12.09-23.18.02:661][  0]LogAIModule: Creating AISystem for world House
+[2018.12.09-23.18.03:100][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.09-23.18.03:198][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.09-23.18.03:290][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92.316ms to complete.
+[2018.12.09-23.18.03:290][  0]LogFileHelpers: Loading map 'House' took 31.770
+[2018.12.09-23.18.04:248][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-23.18.04:257][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-23.18.04:265][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-23.18.04:272][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-23.18.04:349][  0]LogCollectionManager: Loaded 0 collections in 0.002184 seconds
+[2018.12.09-23.18.04:440][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/GTRP/Saved/Collections/' took 0.01s
+[2018.12.09-23.18.04:440][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/GTRP/Content/Developers/James/Collections/' took 0.01s
+[2018.12.09-23.18.04:440][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/GTRP/Content/Collections/' took 0.01s
+[2018.12.09-23.18.04:440][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.09-23.18.04:453][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2613 classes and 621 folders.
+[2018.12.09-23.18.04:512][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.09-23.18.06:546][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.09-23.18.06:604][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2018.12.09-23.18.06:665][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.09-23.18.07:161][  0]LogSlate: Took 0.020988 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.09-23.18.07:178][  0]LogSlate: Took 0.016820 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.09-23.18.07:227][  0]LogSlate: Took 0.028221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.09-23.18.07:681][  0]LogRenderer: Reallocating scene render targets to support 1028x580 Format 10 NumSamples 1 (Frame:1).
+[2018.12.09-23.18.08:245][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.09-23.18.08:245][  0]LogLoad: (Engine Initialization) Total time: 143.91 seconds
+[2018.12.09-23.18.08:245][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.09-23.18.08:276][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.09-23.18.08:277][  0]LogOcInput: OculusInput is initialized
+[2018.12.09-23.18.08:405][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.09-23.18.08:505][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/James/Documents/Unreal Projects/GTRP/Content/' took 0.16s
+[2018.12.09-23.18.08:521][  1]LogAssetRegistry: Asset discovery search completed in 96.4303 seconds
+[2018.12.09-23.18.08:547][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.09-23.18.08:548][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2018.12.09-23.18.11:382][322]LogSlate: Took 0.021338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.09-23.18.12:510][450]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.09-23.18.38:205][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.18.38:434][540]AssetReimport: New page: Outstanding source content changes 23:18:38
+[2018.12.09-23.18.38:477][541]LogEditorFactories: Performing atomic reimport of [C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Skeleton/WalkSheet.png]
+[2018.12.09-23.18.38:479][541]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Skeleton/WalkSheet.png)
+[2018.12.09-23.18.38:700][541]LogEditorFactories: -- imported successfully
+[2018.12.09-23.18.39:038][542]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet178E48D94F78E5FA6CB4869DBD225468.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Skeleton/WalkSheet.uasset'
+[2018.12.09-23.18.40:883][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.18.40:983][770]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-23.18.41:008][770]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.18.41:008][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-23.18.41:008][770]LogHMD: Initializing OVRPlugin session
+[2018.12.09-23.18.48:716][770]LogOnline: Warning: STEAM: Steam API disabled!
+[2018.12.09-23.18.48:716][770]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.12.09-23.18.48:766][770]PIE: New page: PIE session: House (9 Dec 2018 23:18:48)
+[2018.12.09-23.18.48:766][770]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_House
+[2018.12.09-23.18.48:794][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028268s)
+[2018.12.09-23.18.48:795][770]LogAIModule: Creating AISystem for world House
+[2018.12.09-23.18.48:796][770]LogPlayLevel: PIE: World Init took: (0.001218s)
+[2018.12.09-23.18.48:871][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/House.House to /Game/Maps/UEDPIE_0_House.House (0.104711s)
+[2018.12.09-23.18.48:913][770]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-23.18.48:926][770]LogInit: FAudioDevice initialized.
+[2018.12.09-23.18.49:026][770]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.09-23.18.49:042][770]LogWorld: Bringing World /Game/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2018.12.09-23.18.49
+[2018.12.09-23.18.49:473][770]LogWorld: Bringing up level for play took: 0.445213
+[2018.12.09-23.18.49:996][770]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 10 classes and 0 folders.
+[2018.12.09-23.18.51:082][770]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_House 9.902
+[2018.12.09-23.18.51:082][770]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.18.51:703][770]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:HoldPositionBoxVisibility:0039
+[2018.12.09-23.18.51:703][770]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:HoldPositionBoxVisibility:0039
+[2018.12.09-23.18.51:707][770]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:HoldPositionBoxVisibility:0039
+[2018.12.09-23.18.51:707][770]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:HoldPositionBoxVisibility:0039
+[2018.12.09-23.18.51:720][770]AssetReimport: Reimported asset WalkSheet from C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Skeleton/WalkSheet.png.
+[2018.12.09-23.18.55:151][771]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:HoldPositionBoxVisibility:0039
+[2018.12.09-23.18.55:151][771]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:HoldPositionBoxVisibility:0039
+[2018.12.09-23.18.55:156][771]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:HoldPositionBoxVisibility:0039
+[2018.12.09-23.18.55:156][771]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:HoldPositionBoxVisibility:0039
+[2018.12.09-23.18.55:287][772]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:HoldPositionBoxVisibility:0039
+[2018.12.09-23.18.55:287][772]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:HoldPositionBoxVisibility:0039
+[2018.12.09-23.18.55:290][772]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:HoldPositionBoxVisibility:0039
+[2018.12.09-23.18.55:290][772]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:HoldPositionBoxVisibility:0039
+[2018.12.09-23.18.55:311][773]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:HoldPositionBoxVisibility:0039
+[2018.12.09-23.18.55:311][773]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:HoldPositionBoxVisibility:0039
+[2018.12.09-23.18.55:313][773]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:HoldPositionBoxVisibility:0039
+[2018.12.09-23.18.55:313][773]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:HoldPositionBoxVisibility:0039
+[2018.12.09-23.18.55:341][774]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:HoldPositionBoxVisibility:0039
+[2018.12.09-23.19.25:978][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.19.26:096][922]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.19.26:134][922]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2018.12.09-23.19.26:135][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-23.19.26:172][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-23.19.26:173][922]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.19.26:199][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-23.19.26:238][923]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.12.09-23.19.47:855][468]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_0.WalkSheet_Sprite_0
+[2018.12.09-23.19.48:115][468]LogSlate: Took 0.023560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.09-23.19.48:517][468]LogRenderer: Reallocating scene render targets to support 1528x920 Format 10 NumSamples 1 (Frame:1).
+[2018.12.09-23.19.56:934][338]LogSlate: Window 'WalkSheet_Sprite_0' being destroyed
+[2018.12.09-23.19.56:940][338]LogSlate: Window 'WalkSheet_Sprite_0' being destroyed
+[2018.12.09-23.20.02:886][906]LogSlate: Window 'WalkSheet_Sprite_6' being destroyed
+[2018.12.09-23.20.02:890][906]LogSlate: Window 'WalkSheet_Sprite_6' being destroyed
+[2018.12.09-23.20.08:559][184]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.09-23.20.12:398][405]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/CharacterAssets/Sprites/Skeleton/Flipbooks/Walk.Walk
+[2018.12.09-23.20.28:196][998]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Walk17023A0B41BEA301FD6E30B45F02752B.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Flipbooks/Walk.uasset'
+[2018.12.09-23.21.00:519][670]LogSlate: Window 'Extract sprites' being destroyed
+[2018.12.09-23.21.04:653][101]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_0270C8EBC46A048A0E21B94B421BA125D.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_0.uasset'
+[2018.12.09-23.21.04:680][101]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_1451FAFE04D87784A7761C3AD4076AC54.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_1.uasset'
+[2018.12.09-23.21.04:706][101]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_210A42D464DAAF18F5DEBD29D845D859E.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_2.uasset'
+[2018.12.09-23.21.04:730][101]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_3A00D3A764B81072A5B3D2796C46E0C6A.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_3.uasset'
+[2018.12.09-23.21.04:755][101]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_4C13422224871DEC732D0E69206C56C9E.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_4.uasset'
+[2018.12.09-23.21.04:781][101]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_51314FE3C40F508E1CAA7BF9500B507B5.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_5.uasset'
+[2018.12.09-23.21.04:806][101]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_65FFA2CCA4BFA006D78D8E29FFEC26A2D.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_6.uasset'
+[2018.12.09-23.21.04:832][101]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_771C7001C455AC5BA0C836FB5338BC450.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_7.uasset'
+[2018.12.09-23.21.04:857][101]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_82425A7D343ECCB23222BD48586230292.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_8.uasset'
+[2018.12.09-23.21.04:884][101]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_9EA8C370E4E19775E554BC5ABBF2C2DE9.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_9.uasset'
+[2018.12.09-23.21.04:906][101]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_10C1B6373E456FA38D190715A18CC5D2CD.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_10.uasset'
+[2018.12.09-23.21.04:930][101]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_11C7A4F8DC4CA1E2B13BEABBBF8B6D03D8.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_11.uasset'
+[2018.12.09-23.21.04:955][101]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_121560167949CB525848DFD0A751864B96.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_12.uasset'
+[2018.12.09-23.21.04:977][101]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_13F7850300495FE55437DCE6BE580C83E9.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_13.uasset'
+[2018.12.09-23.21.05:002][101]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_144D671EE84DE7A28D582036A2912F898F.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_14.uasset'
+[2018.12.09-23.21.05:025][101]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_156274BB634C2BD2759C4919852BD5F0B1.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_15.uasset'
+[2018.12.09-23.22.17:897][880]LogTexture: Display: Building textures: WalkSheet (BGRA8, 1024X1024)
+[2018.12.09-23.22.20:720][163]LogTexture: Display: Building textures: IdleSheet (BGRA8, 1280X256)
+[2018.12.09-23.22.24:204][539]LogTexture: Display: Building textures: IdleCarrySheet (BGRA8, 1280X256)
+[2018.12.09-23.22.24:223][539]LogTexture: Display: Building textures: HeldCalmSheet (BGRA8, 1200X900)
+[2018.12.09-23.22.24:285][539]LogTexture: Display: Building textures: HeldStruggleSheet (BGRA8, 2100X600)
+[2018.12.09-23.22.31:753][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.23.08:214][538]LogSlate: Window 'Save Content' being destroyed
+[2018.12.09-23.23.08:306][538]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkBB01FA704AF1FD8A45BE90BC02BEE7A2.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Flipbooks/Walk.uasset'
+[2018.12.09-23.23.08:405][538]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet5694A4FC4F5A66AC0B2B818B87B01AE4.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Skeleton/HeldCalmSheet.uasset'
+[2018.12.09-23.23.08:474][538]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldStruggleSheet95F100A649900098A1365EB928FBC946.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Skeleton/HeldStruggleSheet.uasset'
+[2018.12.09-23.23.08:543][538]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/IdleCarrySheet687387C54B15A63C3D985AA7BB93523B.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Skeleton/IdleCarrySheet.uasset'
+[2018.12.09-23.23.08:610][538]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/IdleSheet494D3E2B40AE252AD607AF85B78B2BA0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Skeleton/IdleSheet.uasset'
+[2018.12.09-23.23.08:685][538]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheetB45F4C5A413C583B86405FA568C38DE6.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Skeleton/WalkSheet.uasset'
+[2018.12.09-23.23.59:547][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_0360225E74C668EE7BF8EB489575E6BB0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_0.uasset'
+[2018.12.09-23.23.59:621][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_11556E92A49ADF2FF637D8C9A0B9A8697.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_1.uasset'
+[2018.12.09-23.23.59:692][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_232E4B68F45AFD31D1ED6029AC1D5AF12.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_2.uasset'
+[2018.12.09-23.23.59:768][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_3DEF276454F10B7935656BF8FEFA0CEE0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_3.uasset'
+[2018.12.09-23.23.59:843][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_46D68A3CA42A13530177ABDA55F01E456.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_4.uasset'
+[2018.12.09-23.23.59:925][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_5BA7517C64DABB0A372E5EFB00ECCBB66.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_5.uasset'
+[2018.12.09-23.24.00:006][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_6771BF978497B1113BBA22091C0E23BCB.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_6.uasset'
+[2018.12.09-23.24.00:078][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_70ED300A045B065F65C7EAF86E7BF3CF0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_7.uasset'
+[2018.12.09-23.24.00:151][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_8F78071B24F227F901E8F898A7DE578ED.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_8.uasset'
+[2018.12.09-23.24.00:226][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_996932E3F440692C2114BA8B613FF8968.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_9.uasset'
+[2018.12.09-23.24.00:297][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_107C1EA6D04D6ADCCA52B45084F22ABA59.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_10.uasset'
+[2018.12.09-23.24.00:373][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_11118E2F3144D2A827062F8C84D8418630.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_11.uasset'
+[2018.12.09-23.24.00:445][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_12D9A0239D4275F54C562EE09E4CE40087.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_12.uasset'
+[2018.12.09-23.24.00:521][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_138865415E4C17CE4AE00569A721AF5FE9.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_13.uasset'
+[2018.12.09-23.24.00:594][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_14EEF366CD4961C654C184979181F618D9.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_14.uasset'
+[2018.12.09-23.24.00:671][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_15992418014B759440159DA88B668857D6.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_15.uasset'
+[2018.12.09-23.24.26:116][517]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_Idle/IdleSheet_SkeletonIdle_0.IdleSheet_SkeletonIdle_0
+[2018.12.09-23.24.59:788][ 50]LogSlate: Window 'IdleSheet_SkeletonIdle_0' being destroyed
+[2018.12.09-23.26.42:760][284]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_0E9CC08D841BC6B5477437DB1A43A068D.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_0.uasset'
+[2018.12.09-23.26.42:827][284]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_10C7982F9429E804FDC1B87AB41C53B5D.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_1.uasset'
+[2018.12.09-23.26.42:896][284]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_2B3C946A548D57D35A91155BFA6EBC746.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_2.uasset'
+[2018.12.09-23.26.42:967][284]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_36D85692A48BA2EF1B18649A53C96E06D.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_3.uasset'
+[2018.12.09-23.26.43:038][284]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_48E0D1F02407C60D55E25E7BD6FEBDF74.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_4.uasset'
+[2018.12.09-23.26.43:106][284]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_57F730E114C0826EC778DB086BA3A11BE.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_5.uasset'
+[2018.12.09-23.26.43:175][284]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_619C02AD64DF159618BCDCD842A1F0AAC.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_6.uasset'
+[2018.12.09-23.26.43:243][284]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_7D8FCFBDF4B8360F2FCED6290E8278F09.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_7.uasset'
+[2018.12.09-23.26.43:311][284]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_8952D245548DCE18F7E79CC970EFDFF1A.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_8.uasset'
+[2018.12.09-23.26.43:379][284]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_93FF7B5B14890F4B1D7C3DEA5F1B64A37.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_9.uasset'
+[2018.12.09-23.26.43:449][284]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_10E6E7C0EC453CCA3080E18E97BBDE6A4B.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_10.uasset'
+[2018.12.09-23.26.43:519][284]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_11524DDF2B431104C6A473A3B09568DF93.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_11.uasset'
+[2018.12.09-23.26.43:587][284]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_12F92FD9154074DF12B1C71F8D31DFA457.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_12.uasset'
+[2018.12.09-23.26.43:656][284]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_1360A592374E040C0383F870A1BF677FD2.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_13.uasset'
+[2018.12.09-23.26.44:074][284]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_14231A4B7D452AADD26A1D3BAC5D08E7B0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_14.uasset'
+[2018.12.09-23.26.44:215][284]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_15047B5F1A40F415BC6FD5DD9F316A246C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_15.uasset'
+[2018.12.09-23.26.48:928][507]LogSlate: Window '16 PaperSprite Objects - Property Matrix Editor' being destroyed
+[2018.12.09-23.26.48:933][507]LogSlate: Window '16 PaperSprite Objects - Property Matrix Editor' being destroyed
+[2018.12.09-23.28.01:929][558]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_0.WalkSheet_Sprite_0
+[2018.12.09-23.28.12:807][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.28.35:648][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.28.45:052][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.28.54:463][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.29.05:663][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.29.15:948][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.29.25:899][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.29.34:583][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.29.42:926][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.29.49:928][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.29.59:349][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.30.07:673][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.30.16:316][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.30.26:052][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.30.35:281][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.30.46:232][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.30.47:015][346]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.30.47:092][346]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkEC16A2CA4D0804B4D642CD8F1E72F847.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Flipbooks/Walk.uasset'
+[2018.12.09-23.30.47:166][346]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_04767A854416C9FA2466DF196B63085F0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_0.uasset'
+[2018.12.09-23.30.47:240][346]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_13C6FDF9D4DC199BD87D3428F9EFD4A58.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_1.uasset'
+[2018.12.09-23.30.47:314][346]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_2C702215E40955265B137A09BFA3EDF58.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_2.uasset'
+[2018.12.09-23.30.47:391][346]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_3A40FB8704627356E2814E5AF1E60E611.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_3.uasset'
+[2018.12.09-23.30.47:462][346]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_43AD383FB4E82A80165056A8D1249C1B4.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_4.uasset'
+[2018.12.09-23.30.47:535][346]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_5B7417D24494BA3E266E789939DF01819.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_5.uasset'
+[2018.12.09-23.30.47:610][346]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_6C7F5D15246B69119195433AE797D5BE6.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_6.uasset'
+[2018.12.09-23.30.47:684][346]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_7EACB9E4D45E8C547C78872A1CDE290A5.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_7.uasset'
+[2018.12.09-23.30.47:759][346]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_87827EC1A434C9E9BD82A0796CD75074D.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_8.uasset'
+[2018.12.09-23.30.47:836][346]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_94E0A7F1644FE7A647320B29C7650F23A.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_9.uasset'
+[2018.12.09-23.30.47:909][346]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_10661A2104434A7CA0E5573596FA01FEC8.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_10.uasset'
+[2018.12.09-23.30.47:982][346]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_1107D771C34C613AED0436AA9B779996AA.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_11.uasset'
+[2018.12.09-23.30.48:119][346]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_129DD323B14ECFF7D07C934F8F40BD8B22.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_12.uasset'
+[2018.12.09-23.30.48:203][346]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_13E0E1366F46C877DD3006F1B8694311E0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_13.uasset'
+[2018.12.09-23.30.48:278][346]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_14A85137CE4091CD348CDCB69BF6E328DD.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_14.uasset'
+[2018.12.09-23.30.48:350][346]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_1520ABE1B24C284F301BBD05950A1A1B90.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_15.uasset'
+[2018.12.09-23.31.12:188][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.31.26:576][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.31.34:048][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.31.39:638][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.31.51:039][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.32.00:428][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.32.08:231][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.32.17:817][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.32.26:811][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.32.37:416][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.32.44:322][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.32.51:694][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.33.04:552][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.33.11:448][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.33.20:633][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.33.27:910][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.33.37:758][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.33.45:832][997]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.33.46:589][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.33.46:664][ 53]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_0C6E77F4B456332EBDCAA91A878C43874.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_0.uasset'
+[2018.12.09-23.33.46:734][ 53]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_11F02C856431557EE450C4396DAD84694.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_1.uasset'
+[2018.12.09-23.33.46:804][ 53]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_2AB9A58EA490519EBFB831AA7997919F5.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_2.uasset'
+[2018.12.09-23.33.46:878][ 53]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_306138EA24AD6D3A54A771494B09BAE83.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_3.uasset'
+[2018.12.09-23.33.46:946][ 53]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_4C72CEE9E4D484A0504D9E6896C740B91.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_4.uasset'
+[2018.12.09-23.33.47:017][ 53]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_596A0D7D1498A78D24F6668A7C63DE8C2.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_5.uasset'
+[2018.12.09-23.33.47:088][ 53]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_66B1698CB4A24035DB53F379126C55505.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_6.uasset'
+[2018.12.09-23.33.47:161][ 53]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_7E28B3FEA4D498DA80DB231A82706CE1A.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_7.uasset'
+[2018.12.09-23.33.47:230][ 53]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_8DAE7164041835622844A6694402AAF83.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_8.uasset'
+[2018.12.09-23.33.47:298][ 53]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_986FE81884A2B1BB4568A07B5EC11F49D.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_9.uasset'
+[2018.12.09-23.33.47:367][ 53]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_109425C7B34C3AB1AEF40DF3BFC705DA2A.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_10.uasset'
+[2018.12.09-23.33.47:435][ 53]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_116ADF8BEE4BF8C87CAAA0128B0824794E.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_11.uasset'
+[2018.12.09-23.33.47:506][ 53]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_126CB4691C4E085FE39636B9AFC9B65495.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_12.uasset'
+[2018.12.09-23.33.47:577][ 53]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_13C9BB266E403B09DE38CF50A6466049B8.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_13.uasset'
+[2018.12.09-23.33.47:664][ 53]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_14A9E0D3F247C1179DBF73D08CC544A2B5.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_14.uasset'
+[2018.12.09-23.33.47:735][ 53]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_150EE30DC944B5F4A954ABD6B2972FC073.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_15.uasset'
+[2018.12.09-23.34.20:268][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.34.36:475][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.34.48:427][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.34.57:066][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.35.03:982][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.35.16:537][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.35.24:639][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.35.33:473][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.35.41:654][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.35.50:984][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.36.01:697][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.36.09:710][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.36.17:734][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.36.24:886][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.36.32:762][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.36.41:447][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.36.51:307][259]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.36.51:976][311]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.36.52:060][311]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_0957D67EE4BF5831C2FF6C19F69EDA36C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_0.uasset'
+[2018.12.09-23.36.52:139][311]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_1E236C4F64F79EBB7FC572E8D2C3275FE.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_1.uasset'
+[2018.12.09-23.36.52:216][311]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_28F70A6964D2CDA691007A380B9D21CE0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_2.uasset'
+[2018.12.09-23.36.52:294][311]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_3F0F14A51424FF9727364FAA23D5549A8.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_3.uasset'
+[2018.12.09-23.36.52:371][311]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_49C2195614FFFCF905594A3A26E4AA38E.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_4.uasset'
+[2018.12.09-23.36.52:447][311]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_58C70551C4BE4E2885EB627AF9CE802AC.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_5.uasset'
+[2018.12.09-23.36.52:525][311]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_65EFBB21944B2477202E3998247C46308.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_6.uasset'
+[2018.12.09-23.36.52:604][311]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_7109D5A8D4FBE26E28C0969A24E63A8B8.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_7.uasset'
+[2018.12.09-23.36.52:678][311]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_880FD394B4DFFC1B4799732AD925D9092.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_8.uasset'
+[2018.12.09-23.36.52:754][311]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_94CF0E800432DD624B7994E961EA926C4.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_9.uasset'
+[2018.12.09-23.36.52:828][311]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_106284E36E4826BB42C412D39BE090AB6C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_10.uasset'
+[2018.12.09-23.36.52:906][311]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_11E0A518B44881B13052A3A0B74C292D0C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_11.uasset'
+[2018.12.09-23.36.52:981][311]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_1232A7C8AC4E95E775AD73A7969202D605.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_12.uasset'
+[2018.12.09-23.36.53:078][311]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_135A43C85945E6DC7DAB3C6BACF0012938.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_13.uasset'
+[2018.12.09-23.36.53:161][311]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_142EEEEED14E4C04F49A400A9DE3EB86A4.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_14.uasset'
+[2018.12.09-23.36.53:235][311]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_154927C38041831A0BFAD2609E1D83EAFE.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_15.uasset'
+[2018.12.09-23.37.37:719][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.38.30:835][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.38.35:524][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.38.41:609][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.38.46:465][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.38.50:687][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.38.55:155][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.39.01:233][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.39.05:138][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.39.07:382][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.39.15:442][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.39.19:258][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.39.26:082][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.39.30:811][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.39.35:409][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.39.40:867][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.39.44:372][430]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_04E90F4D042F5E902EAED869AD92FBF3C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_0.uasset'
+[2018.12.09-23.39.44:443][430]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_103B83EFD44F512CF2193659667127141.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_1.uasset'
+[2018.12.09-23.39.44:516][430]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_2DD18CBAB4E8A6D34AA7FAA8537EA6BA0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_2.uasset'
+[2018.12.09-23.39.44:588][430]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_308B13DA8466C9CF1FAABED90721267AF.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_3.uasset'
+[2018.12.09-23.39.44:659][430]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_4D2ED8A8F44F13ECFE2D5B19F165A6E8C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_4.uasset'
+[2018.12.09-23.39.44:730][430]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_5C7C5928A42401EAC3FEE6B8C9D7458F1.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_5.uasset'
+[2018.12.09-23.39.44:804][430]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_6FF9B44EF4FDD1C22D89EDBBB82FAAC3B.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_6.uasset'
+[2018.12.09-23.39.44:875][430]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_74AAB167845E20A1894B839817A202338.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_7.uasset'
+[2018.12.09-23.39.44:946][430]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_82EF60C03470D9CC4CB90B98DDE63B811.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_8.uasset'
+[2018.12.09-23.39.45:018][430]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_99500453449F31993E1B816AE2914D617.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_9.uasset'
+[2018.12.09-23.39.45:088][430]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_10BEEA63F94BB911733B0B66B81060DBA6.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_10.uasset'
+[2018.12.09-23.39.45:161][430]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_111628D1044AE1311341FC2BA471DDC3D4.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_11.uasset'
+[2018.12.09-23.39.45:229][430]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_122255417341BA28401A06F69D1407D611.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_12.uasset'
+[2018.12.09-23.39.45:299][430]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_13BBECE4734793703290B7B7AC84F48140.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_13.uasset'
+[2018.12.09-23.39.45:368][430]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_142EB171894ED4EF0C80B496B9FA36D541.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_14.uasset'
+[2018.12.09-23.39.45:435][430]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_15E0F3F269416BAA46771A3A802A3A172C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_15.uasset'
+[2018.12.09-23.40.00:103][780]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Walk906761DB488BC8569D5880B01E3193DC.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Flipbooks/Walk.uasset'
+[2018.12.09-23.40.02:585][ 22]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-23.40.02:611][ 22]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.40.02:611][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-23.40.02:611][ 22]LogHMD: Initializing OVRPlugin session
+[2018.12.09-23.40.02:652][ 22]PIE: New page: PIE session: House (9 Dec 2018 23:40:02)
+[2018.12.09-23.40.02:656][ 22]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_House
+[2018.12.09-23.40.02:662][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006123s)
+[2018.12.09-23.40.02:663][ 22]LogAIModule: Creating AISystem for world House
+[2018.12.09-23.40.02:664][ 22]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2018.12.09-23.40.02:664][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/House.House to /Game/Maps/UEDPIE_0_House.House (0.007449s)
+[2018.12.09-23.40.02:699][ 22]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-23.40.02:711][ 22]LogInit: FAudioDevice initialized.
+[2018.12.09-23.40.02:744][ 22]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.09-23.40.02:748][ 22]LogWorld: Bringing World /Game/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2018.12.09-23.40.02
+[2018.12.09-23.40.02:749][ 22]LogWorld: Bringing up level for play took: 0.003580
+[2018.12.09-23.40.02:766][ 22]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_House -0.415
+[2018.12.09-23.40.02:766][ 22]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.40.21:451][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.40.21:555][124]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.40.21:562][124]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2018.12.09-23.40.21:563][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-23.40.21:602][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-23.40.21:602][124]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.40.21:625][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-23.40.21:658][126]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.12.09-23.40.26:631][703]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CharacterBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2018.12.09-23.40.27:679][703]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.12.09-23.40.33:011][895]LogSlate: Took 0.029239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.09-23.40.42:068][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.40.44:225][591]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.12.09-23.40.45:908][691]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-23.40.45:939][691]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.40.45:939][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-23.40.45:939][691]LogHMD: Initializing OVRPlugin session
+[2018.12.09-23.40.45:977][691]PIE: New page: PIE session: House (9 Dec 2018 23:40:45)
+[2018.12.09-23.40.45:977][691]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_House
+[2018.12.09-23.40.45:987][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009976s)
+[2018.12.09-23.40.45:988][691]LogAIModule: Creating AISystem for world House
+[2018.12.09-23.40.45:988][691]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2018.12.09-23.40.45:988][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/House.House to /Game/Maps/UEDPIE_0_House.House (0.011029s)
+[2018.12.09-23.40.46:039][691]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-23.40.46:051][691]LogInit: FAudioDevice initialized.
+[2018.12.09-23.40.46:086][691]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.09-23.40.46:089][691]LogWorld: Bringing World /Game/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2018.12.09-23.40.46
+[2018.12.09-23.40.46:090][691]LogWorld: Bringing up level for play took: 0.002655
+[2018.12.09-23.40.46:106][691]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_House 0.925
+[2018.12.09-23.40.46:106][691]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.40.57:469][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.40.57:539][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.40.57:546][  2]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2018.12.09-23.40.57:547][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-23.40.57:580][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-23.40.57:581][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.40.57:611][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-23.40.57:647][  4]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.12.09-23.41.06:939][660]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.12.09-23.41.08:648][789]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-23.41.08:678][789]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.41.08:678][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-23.41.08:678][789]LogHMD: Initializing OVRPlugin session
+[2018.12.09-23.41.08:721][789]PIE: New page: PIE session: House (9 Dec 2018 23:41:08)
+[2018.12.09-23.41.08:721][789]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_House
+[2018.12.09-23.41.08:728][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006281s)
+[2018.12.09-23.41.08:728][789]LogAIModule: Creating AISystem for world House
+[2018.12.09-23.41.08:728][789]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2018.12.09-23.41.08:728][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/House.House to /Game/Maps/UEDPIE_0_House.House (0.007043s)
+[2018.12.09-23.41.08:771][789]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-23.41.08:783][789]LogInit: FAudioDevice initialized.
+[2018.12.09-23.41.08:816][789]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.09-23.41.08:819][789]LogWorld: Bringing World /Game/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2018.12.09-23.41.08
+[2018.12.09-23.41.08:819][789]LogWorld: Bringing up level for play took: 0.002549
+[2018.12.09-23.41.08:835][789]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_House -0.345
+[2018.12.09-23.41.08:835][789]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.41.20:606][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.41.20:693][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.41.20:699][157]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2018.12.09-23.41.20:700][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-23.41.20:738][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-23.41.20:739][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.41.20:767][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-23.41.20:800][158]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.12.09-23.41.23:490][244]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-23.41.23:521][244]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.41.23:521][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-23.41.23:521][244]LogHMD: Initializing OVRPlugin session
+[2018.12.09-23.41.23:560][244]PIE: New page: PIE session: House (9 Dec 2018 23:41:23)
+[2018.12.09-23.41.23:561][244]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_House
+[2018.12.09-23.41.23:570][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009171s)
+[2018.12.09-23.41.23:571][244]LogAIModule: Creating AISystem for world House
+[2018.12.09-23.41.23:571][244]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2018.12.09-23.41.23:571][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/House.House to /Game/Maps/UEDPIE_0_House.House (0.010360s)
+[2018.12.09-23.41.23:612][244]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-23.41.23:624][244]LogInit: FAudioDevice initialized.
+[2018.12.09-23.41.23:652][244]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.09-23.41.23:655][244]LogWorld: Bringing World /Game/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2018.12.09-23.41.23
+[2018.12.09-23.41.23:656][244]LogWorld: Bringing up level for play took: 0.002581
+[2018.12.09-23.41.23:671][244]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_House 0.491
+[2018.12.09-23.41.23:671][244]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.41.28:968][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.41.39:219][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.41.39:223][ 29]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2018.12.09-23.41.39:224][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-23.41.39:260][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-23.41.39:261][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.41.39:292][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-23.41.39:327][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.12.09-23.41.45:575][462]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.12.09-23.41.46:842][490]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/2DSideScrollerCharacter0FEBE43B4B6F80CAC5F94CAFBC26417E.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.12.09-23.42.34:044][130]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.42.34:638][174]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.42.34:717][174]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_0DD2FDDE84A44CB7E3C8C15A204F62C0F.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_0.uasset'
+[2018.12.09-23.42.46:974][ 96]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_055C03C314A312AD1A48CF7A575AD5781.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_0.uasset'
+[2018.12.09-23.42.57:521][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_14EA3E3894B865592EF623D952C06C916.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_1.uasset'
+[2018.12.09-23.42.57:598][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_250DF2ABC4DDDB1C50CBA0BA50A54B19E.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_2.uasset'
+[2018.12.09-23.42.57:675][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_32BF81BE14A32732C69D810AAD2F41F49.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_3.uasset'
+[2018.12.09-23.42.57:754][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_4075FC6AF49576145823CBF8C1C059134.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_4.uasset'
+[2018.12.09-23.42.57:830][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_5B498404B423AC0F380B5C98452BCF644.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_5.uasset'
+[2018.12.09-23.42.57:910][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_64B542BB24514D2289F2BD5A4A8588989.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_6.uasset'
+[2018.12.09-23.42.58:009][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_7C7508C3C4CB648608C9854973E2E66AA.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_7.uasset'
+[2018.12.09-23.42.58:118][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_8B598249C40FEC8A093225192C5F27C97.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_8.uasset'
+[2018.12.09-23.42.58:196][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_9038059B840DE44906620B3BCA7440081.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_9.uasset'
+[2018.12.09-23.42.58:274][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_10ACDC05E8440C97E2CB59E8B539230C0F.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_10.uasset'
+[2018.12.09-23.42.58:356][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_11604BA043468278F64BEB76B001C92462.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_11.uasset'
+[2018.12.09-23.42.58:435][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_12D3DE3B6949D31BEEDCC0878441069C88.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_12.uasset'
+[2018.12.09-23.42.58:510][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_13FFC03C914326FCFB8993009A15EF8DFE.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_13.uasset'
+[2018.12.09-23.42.58:586][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_14EDC54EFC43C0E91D8E77469CDED41A4F.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_14.uasset'
+[2018.12.09-23.42.58:661][616]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_15416BDE3448D86354BD5C15B0E5038FBD.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_15.uasset'
+[2018.12.09-23.43.21:895][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.43.45:395][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.43.55:505][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.43.55:695][982]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_3998A7D114BA1FA71E6FF09B840C05B45.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_3.uasset'
+[2018.12.09-23.44.00:006][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.44.17:891][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.44.29:915][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.44.40:039][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.44.40:215][409]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_6784343354E1B0D96B76083A18695518E.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_6.uasset'
+[2018.12.09-23.44.51:645][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.45.05:511][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.45.19:514][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.45.36:323][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.45.47:530][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.45.59:641][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.46.09:450][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.46.21:088][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.46.29:650][756]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.46.30:530][822]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.46.30:610][822]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_134A81CB641241FF25DC10C93C8273D99.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_1.uasset'
+[2018.12.09-23.46.30:684][822]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_2C78290AE4DD9D92EE43638A97FEE90D8.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_2.uasset'
+[2018.12.09-23.46.30:797][822]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_4C9E3CA8247C30457058AAC957D93B7DE.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_4.uasset'
+[2018.12.09-23.46.30:874][822]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_576EC21F949B4844FD8EA5FA55AC92CDF.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_5.uasset'
+[2018.12.09-23.46.30:944][822]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_78E4F78E549AA2EC2CF43AA94271617E0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_7.uasset'
+[2018.12.09-23.46.31:015][822]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_8805BD558454256FDE2647185E260B2C7.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_8.uasset'
+[2018.12.09-23.46.31:088][822]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_9D8FB187B47C0CD8D2F38C283337E404F.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_9.uasset'
+[2018.12.09-23.46.31:158][822]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_103E66A9AF41215A52030FA09340292C0E.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_10.uasset'
+[2018.12.09-23.46.31:227][822]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_11D84F79B04B1BCE79F2B242BA21E58553.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_11.uasset'
+[2018.12.09-23.46.31:298][822]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_122885015B41AE981FB14D1A821F18D93D.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_12.uasset'
+[2018.12.09-23.46.31:373][822]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_137A3FC728417CD88DCDC6F0813181F3A7.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_13.uasset'
+[2018.12.09-23.46.31:443][822]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_14E7A4CB0A40E76BE894F8B49C741605CF.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_14.uasset'
+[2018.12.09-23.46.31:515][822]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_15836C8A0C41F722859AAF33A3D5DB1AE1.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_15.uasset'
+[2018.12.09-23.46.37:055][336]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-23.46.37:088][336]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.46.37:088][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-23.46.37:088][336]LogHMD: Initializing OVRPlugin session
+[2018.12.09-23.46.37:129][336]PIE: New page: PIE session: House (9 Dec 2018 23:46:37)
+[2018.12.09-23.46.37:129][336]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_House
+[2018.12.09-23.46.37:136][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006767s)
+[2018.12.09-23.46.37:137][336]LogAIModule: Creating AISystem for world House
+[2018.12.09-23.46.37:137][336]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2018.12.09-23.46.37:137][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/House.House to /Game/Maps/UEDPIE_0_House.House (0.007823s)
+[2018.12.09-23.46.37:180][336]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-23.46.37:193][336]LogInit: FAudioDevice initialized.
+[2018.12.09-23.46.37:225][336]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.09-23.46.37:227][336]LogWorld: Bringing World /Game/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2018.12.09-23.46.37
+[2018.12.09-23.46.37:228][336]LogWorld: Bringing up level for play took: 0.002668
+[2018.12.09-23.46.37:245][336]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_House 0.064
+[2018.12.09-23.46.37:245][336]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.46.44:831][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.46.44:920][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.46.44:927][208]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2018.12.09-23.46.44:927][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-23.46.44:968][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-23.46.44:968][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.09-23.46.44:998][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-23.46.45:022][209]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.12.09-23.46.49:732][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.47.07:218][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.47.15:023][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.48.53:113][765]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.48.54:022][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.48.54:114][836]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_1D9C25A884E97B44590BDC99AA50A4775.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_1.uasset'
+[2018.12.09-23.50.05:283][387]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.50.06:129][455]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.50.06:215][455]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_0654565CC4EECCF738691348189D7ECB1.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_0.uasset'
+[2018.12.09-23.50.15:447][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.51.34:586][502]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.51.35:337][562]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.51.35:424][562]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_2E3DF24E148E12CD3AF723799D6A06C06.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_2.uasset'
+[2018.12.09-23.52.52:716][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.52.53:217][801]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_345A0CDF644527F8932986386CF577F3C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_3.uasset'
+[2018.12.09-23.53.57:833][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.53.58:017][ 71]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_4E2DDC1FA45D47F8C3BD967B0F83A0DD8.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_4.uasset'
+[2018.12.09-23.55.11:763][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.55.20:523][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.56.20:442][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.56.20:605][563]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_695FFD0CF4A726F65A17C8C80595AAD07.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_6.uasset'
+[2018.12.09-23.56.22:025][664]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_5659DAB6D43147537221DB18956242BE8.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_5.uasset'
+[2018.12.09-23.57.36:668][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-23.58.46:914][320]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.58.47:569][371]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-23.58.47:655][371]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_7669EEDA44E6E0CD79E7A24B32EAD55F2.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_7.uasset'
+[2018.12.09-23.58.47:733][371]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_8CE08C51F4A8A0CF570294586B6FEAC79.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_8.uasset'
+[2018.12.10-00.00.16:408][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.00.16:603][221]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_9D2F5C42D41BFB67892D970A450319AAC.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_9.uasset'
+[2018.12.10-00.00.23:225][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.00.26:819][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.00.27:894][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.00.28:971][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.00.30:113][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.00.31:008][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.01.32:937][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.01.33:131][138]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_1051FA9D1A4B43D05A325E488EADA868C4.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_10.uasset'
+[2018.12.10-00.02.08:860][385]Cmd: TRANSACTION UNDO
+[2018.12.10-00.02.08:861][385]LogEditorTransaction: Undo Modification in Viewport
+[2018.12.10-00.02.50:503][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.02.50:673][241]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_11E801D93F492F8BBB4FA3869B51B25A30.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_11.uasset'
+[2018.12.10-00.03.57:620][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.03.57:804][489]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_12EBF0CC534BBC3186B629318812DEDD2A.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_12.uasset'
+[2018.12.10-00.04.55:780][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.04.55:962][946]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_13E36C185446549F7B09B34F940EF563AB.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_13.uasset'
+[2018.12.10-00.06.07:181][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.06.07:381][826]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_1560F4FB9E44B946B6B52FD186FA268ACE.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_15.uasset'
+[2018.12.10-00.07.15:636][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.07.15:818][453]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_14DF00955A46498C94CD9A51974686CDE8.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_14.uasset'
+[2018.12.10-00.07.41:122][327]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_9.WalkSheet_Sprite_9
+[2018.12.10-00.08.05:366][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.08.05:559][548]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_966C73F1F471F01194F749E94D9F0964A.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_9.uasset'
+[2018.12.10-00.08.17:698][850]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.10-00.08.17:727][850]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.10-00.08.17:727][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-00.08.17:727][850]LogHMD: Initializing OVRPlugin session
+[2018.12.10-00.08.17:767][850]PIE: New page: PIE session: House (10 Dec 2018 00:08:17)
+[2018.12.10-00.08.17:768][850]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_House
+[2018.12.10-00.08.17:776][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007780s)
+[2018.12.10-00.08.17:776][850]LogAIModule: Creating AISystem for world House
+[2018.12.10-00.08.17:776][850]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2018.12.10-00.08.17:777][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/House.House to /Game/Maps/UEDPIE_0_House.House (0.008767s)
+[2018.12.10-00.08.17:819][850]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.10-00.08.17:830][850]LogInit: FAudioDevice initialized.
+[2018.12.10-00.08.17:866][850]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.10-00.08.17:869][850]LogWorld: Bringing World /Game/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2018.12.10-00.08.17
+[2018.12.10-00.08.17:870][850]LogWorld: Bringing up level for play took: 0.002858
+[2018.12.10-00.08.17:886][850]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_House 0.706
+[2018.12.10-00.08.17:886][850]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.10-00.08.33:108][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.08.33:159][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.10-00.08.33:165][668]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2018.12.10-00.08.33:166][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-00.08.33:202][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-00.08.33:203][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.10-00.08.33:231][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-00.08.33:265][670]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2018.12.10-00.09.54:530][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.09.54:859][533]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_3D3BE53594BDA8692F66CD7945C07519B.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_3.uasset'
+[2018.12.10-00.10.55:278][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.10.55:459][396]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_2F00B5A17485F4FC6EA62EB87D75143A0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_2.uasset'
+[2018.12.10-00.11.38:894][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.11.39:085][277]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_19DC211544C633DAF462FE3908D4745D9.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_1.uasset'
+[2018.12.10-00.12.15:767][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.12.15:945][620]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_09E851548415F1C7570485E993E0E1D45.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_0.uasset'
+[2018.12.10-00.13.05:387][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.13.05:588][ 13]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_71009B0F84AC2240E8B3A96B7EC5E5974.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_7.uasset'
+[2018.12.10-00.13.52:201][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.13.52:391][123]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_67159DD874D80647558A2048A967EED82.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_6.uasset'
+[2018.12.10-00.14.31:467][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.14.31:654][596]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_570337A4F4F0E3367A96493916DA68C21.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_5.uasset'
+[2018.12.10-00.15.24:298][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.15.24:738][376]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_4C925D7014D517EA0EC0F80A3065F52B2.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_4.uasset'
+[2018.12.10-00.15.28:075][728]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.10-00.15.28:104][728]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.10-00.15.28:105][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-00.15.28:105][728]LogHMD: Initializing OVRPlugin session
+[2018.12.10-00.15.28:144][728]PIE: New page: PIE session: House (10 Dec 2018 00:15:28)
+[2018.12.10-00.15.28:145][728]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_House
+[2018.12.10-00.15.28:152][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007137s)
+[2018.12.10-00.15.28:153][728]LogAIModule: Creating AISystem for world House
+[2018.12.10-00.15.28:153][728]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2018.12.10-00.15.28:153][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/House.House to /Game/Maps/UEDPIE_0_House.House (0.008072s)
+[2018.12.10-00.15.28:206][728]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.10-00.15.28:219][728]LogInit: FAudioDevice initialized.
+[2018.12.10-00.15.28:250][728]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.10-00.15.28:253][728]LogWorld: Bringing World /Game/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2018.12.10-00.15.28
+[2018.12.10-00.15.28:253][728]LogWorld: Bringing up level for play took: 0.002701
+[2018.12.10-00.15.28:269][728]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_House 1.089
+[2018.12.10-00.15.28:269][728]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.10-00.15.40:990][249]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.10-00.15.40:997][249]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2018.12.10-00.15.40:997][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-00.15.41:033][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-00.15.41:034][249]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.10-00.15.41:060][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-00.15.41:089][251]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2018.12.10-00.15.42:391][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.16.31:054][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.16.31:245][659]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_11112149FC47BBC027AC5D15A49FD06D66.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_11.uasset'
+[2018.12.10-00.17.20:978][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.17.21:178][992]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_10FDFFA02D4C48BFFBA7F2F28BE2A91D07.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_10.uasset'
+[2018.12.10-00.17.58:515][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.17.58:670][284]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_947927D9A4E8ADA8B714990B779C40A5C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_9.uasset'
+[2018.12.10-00.18.41:594][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.18.42:685][221]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_841E7628646D3FB9D1A3076AD2F698709.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_8.uasset'
+[2018.12.10-00.18.46:608][634]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.10-00.18.46:636][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.10-00.18.46:636][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-00.18.46:636][634]LogHMD: Initializing OVRPlugin session
+[2018.12.10-00.18.46:675][634]PIE: New page: PIE session: House (10 Dec 2018 00:18:46)
+[2018.12.10-00.18.46:676][634]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_House
+[2018.12.10-00.18.46:684][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008271s)
+[2018.12.10-00.18.46:685][634]LogAIModule: Creating AISystem for world House
+[2018.12.10-00.18.46:685][634]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2018.12.10-00.18.46:685][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/House.House to /Game/Maps/UEDPIE_0_House.House (0.009380s)
+[2018.12.10-00.18.46:730][634]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.10-00.18.46:742][634]LogInit: FAudioDevice initialized.
+[2018.12.10-00.18.46:775][634]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.10-00.18.46:778][634]LogWorld: Bringing World /Game/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2018.12.10-00.18.46
+[2018.12.10-00.18.46:779][634]LogWorld: Bringing up level for play took: 0.002521
+[2018.12.10-00.18.46:794][634]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_House -0.387
+[2018.12.10-00.18.46:794][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.10-00.18.48:903][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.18.48:995][890]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.10-00.18.49:004][890]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2018.12.10-00.18.49:004][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-00.18.49:039][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-00.18.49:040][890]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.10-00.18.49:070][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-00.18.49:098][891]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2018.12.10-00.19.38:287][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.19.38:472][266]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_15C57B13AD4FCD557CD24D2F8C2B50937A.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_15.uasset'
+[2018.12.10-00.20.16:578][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.20.16:780][632]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_14EC5B3A7E4550FB0C0A52458C1EF7F5E1.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_14.uasset'
+[2018.12.10-00.20.54:693][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.20.54:874][972]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_13E833A7B04946B036AEEC4A9FD74D85CB.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_13.uasset'
+[2018.12.10-00.21.44:405][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.21.44:582][421]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/WalkSheet_Sprite_12780D7CC040F0DA193E3269B81B109F37.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_Walk/WalkSheet_Sprite_12.uasset'
+[2018.12.10-00.21.46:314][582]LogSlate: Window 'WalkSheet_Sprite_12' being destroyed
+[2018.12.10-00.21.46:320][582]LogSlate: Window 'WalkSheet_Sprite_12' being destroyed
+[2018.12.10-00.21.47:265][676]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.10-00.21.47:294][676]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.10-00.21.47:294][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-00.21.47:294][676]LogHMD: Initializing OVRPlugin session
+[2018.12.10-00.21.47:332][676]PIE: New page: PIE session: House (10 Dec 2018 00:21:47)
+[2018.12.10-00.21.47:332][676]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_House
+[2018.12.10-00.21.47:340][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007645s)
+[2018.12.10-00.21.47:341][676]LogAIModule: Creating AISystem for world House
+[2018.12.10-00.21.47:341][676]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2018.12.10-00.21.47:341][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/House.House to /Game/Maps/UEDPIE_0_House.House (0.008660s)
+[2018.12.10-00.21.47:389][676]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.10-00.21.47:400][676]LogInit: FAudioDevice initialized.
+[2018.12.10-00.21.47:436][676]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.10-00.21.47:439][676]LogWorld: Bringing World /Game/Maps/UEDPIE_0_House.House up for play (max tick rate 0) at 2018.12.10-00.21.47
+[2018.12.10-00.21.47:439][676]LogWorld: Bringing up level for play took: 0.002323
+[2018.12.10-00.21.47:456][676]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_House 0.276
+[2018.12.10-00.21.47:456][676]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.10-00.22.13:877][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.22.13:970][848]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.10-00.22.13:978][848]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2018.12.10-00.22.13:978][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-00.22.14:017][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-00.22.14:017][848]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/House.House:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/House.House:PersistentLevel.House' with GeneratedClass '/Game/Maps/House.House_C' with ClassGeneratedBy '/Game/Maps/House.House:PersistentLevel.House'
+[2018.12.10-00.22.14:045][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-00.22.14:073][850]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2018.12.10-00.22.14:882][943]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Armchair)
+[2018.12.10-00.22.15:703][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-00.22.38:393][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-00.22.38:678][841]LogSlate: Window 'GTRP - Unreal Editor' being destroyed
+[2018.12.10-00.22.38:680][841]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.10-00.22.38:960][842]Cmd: QUIT_EDITOR
+[2018.12.10-00.22.39:893][842]LogExit: Preparing to exit.
+[2018.12.10-00.22.40:362][842]LogExit: Editor shut down
+[2018.12.10-00.22.40:363][842]LogExit: Transaction tracking system shut down
+[2018.12.10-00.22.41:828][842]LogExit: Object subsystem successfully closed.
+[2018.12.10-00.22.41:925][842]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.10-00.22.41:930][842]LogD3D11RHI: Shutdown
+[2018.12.10-00.22.41:930][842]LogD3D11RHI: CleanupD3DDevice
+[2018.12.10-00.22.41:975][842]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.10-00.22.42:222][842]LogModuleManager: Shutting down and abandoning module BlueprintGraph (630)
+[2018.12.10-00.22.42:222][842]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2018.12.10-00.22.42:222][842]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2018.12.10-00.22.42:222][842]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2018.12.10-00.22.42:222][842]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2018.12.10-00.22.42:222][842]LogModuleManager: Shutting down and abandoning module WorldBrowser (620)
+[2018.12.10-00.22.42:222][842]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2018.12.10-00.22.42:223][842]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2018.12.10-00.22.42:223][842]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2018.12.10-00.22.42:223][842]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2018.12.10-00.22.42:239][842]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2018.12.10-00.22.42:239][842]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2018.12.10-00.22.42:239][842]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2018.12.10-00.22.42:273][842]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2018.12.10-00.22.42:273][842]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2018.12.10-00.22.42:273][842]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2018.12.10-00.22.42:273][842]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2018.12.10-00.22.42:273][842]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2018.12.10-00.22.42:273][842]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2018.12.10-00.22.42:294][842]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2018.12.10-00.22.42:294][842]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2018.12.10-00.22.42:294][842]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2018.12.10-00.22.42:294][842]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2018.12.10-00.22.42:294][842]LogModuleManager: Shutting down and abandoning module SequenceRecorder (585)
+[2018.12.10-00.22.42:294][842]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (582)
+[2018.12.10-00.22.42:294][842]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (580)
+[2018.12.10-00.22.42:316][842]LogModuleManager: Shutting down and abandoning module PlacementMode (579)
+[2018.12.10-00.22.42:316][842]LogModuleManager: Shutting down and abandoning module MaterialEditor (578)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (574)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (572)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (570)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (568)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (566)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (564)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (562)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (560)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (558)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (556)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (554)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (552)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (550)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module CharacterAI (548)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module SmartSnapping (546)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module SessionServices (544)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module ViewportSnapping (542)
+[2018.12.10-00.22.42:368][842]LogModuleManager: Shutting down and abandoning module ViewportInteraction (540)
+[2018.12.10-00.22.42:378][842]LogModuleManager: Shutting down and abandoning module ClothPainter (538)
+[2018.12.10-00.22.42:390][842]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (537)
+[2018.12.10-00.22.42:401][842]LogModuleManager: Shutting down and abandoning module LogVisualizer (534)
+[2018.12.10-00.22.42:411][842]LogModuleManager: Shutting down and abandoning module IntroTutorials (532)
+[2018.12.10-00.22.42:411][842]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (531)
+[2018.12.10-00.22.42:416][842]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (528)
+[2018.12.10-00.22.42:416][842]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (526)
+[2018.12.10-00.22.42:416][842]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (524)
+[2018.12.10-00.22.42:416][842]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (522)
+[2018.12.10-00.22.42:416][842]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (521)
+[2018.12.10-00.22.43:922][842]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (518)
+[2018.12.10-00.22.43:922][842]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (516)
+[2018.12.10-00.22.43:922][842]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (514)
+[2018.12.10-00.22.43:922][842]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (512)
+[2018.12.10-00.22.43:922][842]LogModuleManager: Shutting down and abandoning module InputBindingEditor (510)
+[2018.12.10-00.22.43:958][842]LogModuleManager: Shutting down and abandoning module MergeActors (508)
+[2018.12.10-00.22.43:958][842]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (506)

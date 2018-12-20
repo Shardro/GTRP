@@ -1,0 +1,748 @@
+﻿Log file open, 12/05/18 14:54:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GTRP
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.380754
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin VictoryBPLibrary
+LogStreaming: Display: Took  0.565s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 980 Ti
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.101s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.05-14.55.01:927][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.05-14.55.01:928][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.05-14.55.02:077][  0]LogHAL: Display: Platform has ~ 16 GB [17116696576 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.05-14.55.02:085][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.05-14.55.02:085][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.05-14.55.02:150][  0]LogInit: Computer: VIGOR-VANQUISH
+[2018.12.05-14.55.02:150][  0]LogInit: User: James
+[2018.12.05-14.55.02:150][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.05-14.55.02:150][  0]LogInit: High frequency timer resolution =3.514612 MHz
+[2018.12.05-14.55.02:151][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.05-14.55.02:151][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.05-14.55.02:151][  0]LogMemory: Process Physical Memory: 107.17 MB used, 107.17 MB peak
+[2018.12.05-14.55.02:151][  0]LogMemory: Process Virtual Memory: 100.28 MB used, 100.28 MB peak
+[2018.12.05-14.55.02:151][  0]LogMemory: Physical Memory: 7821.59 MB used,  8502.17 MB free, 16323.75 MB total
+[2018.12.05-14.55.02:151][  0]LogMemory: Virtual Memory: 4665.05 MB used,  8502.17 MB free, 134217728.00 MB total
+[2018.12.05-14.55.03:088][  0]LogInit: Using OS detected language (en-GB).
+[2018.12.05-14.55.03:088][  0]LogInit: Using OS detected locale (en-GB).
+[2018.12.05-14.55.03:179][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.12.05-14.55.04:463][  0]LogStreaming: Display: Took  1.368s to InitEngineTextLocalization.
+[2018.12.05-14.55.04:474][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.05-14.55.05:492][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.05-14.55.05:492][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.05-14.55.13:245][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.05-14.55.13:295][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2018.12.05-14.55.13:295][  0]LogD3D11RHI:       6097/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.12.05-14.55.13:297][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.05-14.55.13:297][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.05-14.55.13:297][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.05-14.55.13:324][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.05-14.55.13:324][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.05-14.55.13:340][  0]LogWindows: EnumDisplayDevices:
+[2018.12.05-14.55.13:340][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2018.12.05-14.55.13:340][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2018.12.05-14.55.13:341][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2018.12.05-14.55.13:341][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.12.05-14.55.13:341][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.05-14.55.13:341][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2018.12.05-14.55.13:345][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2018.12.05-14.55.13:345][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2018.12.05-14.55.13:345][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2018.12.05-14.55.13:410][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.05-14.55.13:700][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.05-14.55.13:879][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/James/Documents/Unreal Projects/GTRP/Intermediate/Shaders/WorkingDirectory/8064/).
+[2018.12.05-14.55.13:879][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/James/AppData/Local/Temp/UnrealShaderWorkingDir/2ED9A74D4C95E40992C806B053504EB2/'.
+[2018.12.05-14.55.14:868][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.05-14.55.14:905][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.05-14.55.14:927][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.05-14.55.14:950][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.05-14.55.15:035][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.05-14.55.15:091][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.05-14.55.15:130][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.05-14.55.15:155][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.05-14.55.15:175][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-14.55.15:392][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.05-14.55.15:602][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.05-14.55.15:602][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.05-14.55.15:636][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.05-14.55.15:636][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.05-14.55.15:694][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.05-14.55.15:709][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.05-14.55.15:744][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.05-14.55.15:783][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.05-14.55.15:813][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.05-14.55.15:813][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.05-14.55.16:452][  0]LogXGEController: Cleaning working directory: C:/Users/James/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.05-14.55.16:453][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.05-14.55.16:453][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.05-14.55.16:453][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.05-14.55.21:908][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.05-14.55.22:586][  0]LogDerivedDataCache: Loaded boot cache 0.65s 86MB C:/Users/James/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.05-14.55.22:586][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/James/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.05-14.55.22:586][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/James/Documents/Unreal Projects/GTRP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.05-14.55.22:586][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.05-14.55.22:586][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/James/Documents/Unreal Projects/GTRP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.05-14.55.22:586][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.05-14.55.22:660][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.05-14.55.22:673][  0]LogDerivedDataCache: Using Local data cache path C:/Users/James/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.05-14.55.22:673][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.05-14.55.22:673][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.05-14.55.22:849][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.05-14.55.22:936][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.05-14.55.23:072][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.05-14.55.25:832][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2018.12.05-14.55.35:532][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.05-14.55.40:840][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.05-14.55.41:417][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.05-14.55.41:446][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.05-14.55.41:464][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.05-14.55.41:464][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.05-14.55.43:240][  0]LogNetVersion: GTRP 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3875077618)
+[2018.12.05-14.55.50:237][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.264729 seconds
+[2018.12.05-14.55.50:282][  0]LogUObjectArray: 38434 objects as part of root set at end of initial load.
+[2018.12.05-14.55.50:283][  0]LogUObjectAllocator: 6701144 out of 0 bytes used by permanent object pool.
+[2018.12.05-14.55.50:283][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.05-14.56.29:693][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.05-14.56.29:713][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.05-14.56.32:944][  0]SourceControl: Source control is disabled
+[2018.12.05-14.56.32:945][  0]SourceControl: Source control is disabled
+[2018.12.05-14.56.33:040][  0]SourceControl: Source control is disabled
+[2018.12.05-14.56.33:049][  0]SourceControl: Source control is disabled
+[2018.12.05-14.56.34:253][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.05-14.56.34:465][  0]LogOcInput: OculusInput pre-init called
+[2018.12.05-14.56.35:226][  0]LogEngine: Initializing Engine...
+[2018.12.05-14.56.35:305][  0]LogHMD: Oculus plugin initialized. Version: 4.20.3-4369336+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2018.12.05-14.56.35:331][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.007 s
+[2018.12.05-14.56.35:331][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.05-14.56.35:332][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.05-14.56.35:332][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.05-14.56.36:614][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.05-14.56.36:949][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.05-14.56.37:115][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-14.56.37:175][  0]LogInit: FAudioDevice initialized.
+[2018.12.05-14.56.37:175][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.05-14.56.37:770][  0]LogDerivedDataCache: Saved boot cache 0.59s 86MB C:/Users/James/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.05-14.56.38:102][  0]LogInit: Texture streaming: Enabled
+[2018.12.05-14.56.38:291][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.05-14.56.38:449][  0]LogInit: Transaction tracking system initialized
+[2018.12.05-14.56.38:758][  0]BlueprintLog: New page: Editor Load
+[2018.12.05-14.56.39:818][  0]LocalizationService: Localization service is disabled
+[2018.12.05-14.56.46:344][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.05-14.56.46:344][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.05-14.56.46:367][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.05-14.56.46:367][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.05-14.56.46:367][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.05-14.56.46:367][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.05-14.56.46:367][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.05-14.56.48:672][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/GTRP/Content/' took 1.48s
+[2018.12.05-14.56.51:607][  0]SourceControl: Source control is disabled
+[2018.12.05-14.56.51:633][  0]Cmd: MAP LOAD FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.05-14.56.51:634][  0]LightingResults: New page: Lighting Build
+[2018.12.05-14.56.51:836][  0]MapCheck: New page: Map Check
+[2018.12.05-14.56.51:836][  0]LightingResults: New page: Lighting Build
+[2018.12.05-14.56.53:200][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Heads/Head1'
+[2018.12.05-14.56.53:200][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Heads/Head1'
+[2018.12.05-14.56.53:200][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Extras/Neck1'
+[2018.12.05-14.56.53:200][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Extras/Neck1'
+[2018.12.05-14.56.53:201][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Torso_Upper/UpperTorso1'
+[2018.12.05-14.56.53:201][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Torso_Upper/UpperTorso1'
+[2018.12.05-14.56.53:201][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Torso_Lower/LowerTorso1'
+[2018.12.05-14.56.53:201][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Torso_Lower/LowerTorso1'
+[2018.12.05-14.56.53:201][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Eyes/Eye1'
+[2018.12.05-14.56.53:201][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Eyes/Eye1'
+[2018.12.05-14.56.53:201][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Arms/UpperArm1'
+[2018.12.05-14.56.53:202][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Arms/UpperArm1'
+[2018.12.05-14.56.53:202][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Arms/LowerArm1'
+[2018.12.05-14.56.53:202][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Arms/LowerArm1'
+[2018.12.05-14.56.53:202][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Legs/UpperLeg1'
+[2018.12.05-14.56.53:202][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Legs/UpperLeg1'
+[2018.12.05-14.56.53:202][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Legs/LowerLeg1'
+[2018.12.05-14.56.53:202][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Legs/LowerLeg1'
+[2018.12.05-14.56.53:203][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Hands/FrontResting1'
+[2018.12.05-14.56.53:203][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Hands/FrontResting1'
+[2018.12.05-14.56.53:203][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Hands/BackResting1'
+[2018.12.05-14.56.53:203][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Hands/BackResting1'
+[2018.12.05-14.56.53:203][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Feet/FrontFoot1'
+[2018.12.05-14.56.53:203][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Feet/FrontFoot1'
+[2018.12.05-14.56.53:203][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Feet/BackFoot1'
+[2018.12.05-14.56.53:204][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Feet/BackFoot1'
+[2018.12.05-14.57.05:949][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.12.05-14.57.07:380][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.05-14.57.07:802][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.05-14.57.07:899][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97.179ms to complete.
+[2018.12.05-14.57.07:900][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 16.284
+[2018.12.05-14.57.09:883][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-14.57.09:942][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-14.57.09:949][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-14.57.09:957][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-14.57.10:148][  0]LogCollectionManager: Loaded 0 collections in 0.001631 seconds
+[2018.12.05-14.57.10:339][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/GTRP/Saved/Collections/' took 0.01s
+[2018.12.05-14.57.10:339][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/GTRP/Content/Developers/James/Collections/' took 0.01s
+[2018.12.05-14.57.10:339][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/GTRP/Content/Collections/' took 0.01s
+[2018.12.05-14.57.10:339][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.05-14.57.10:356][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2613 classes and 621 folders.
+[2018.12.05-14.57.10:619][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.05-14.57.12:811][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.05-14.57.12:968][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2018.12.05-14.57.13:087][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.05-14.57.14:326][  0]LogSlate: Took 0.023229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.05-14.57.14:377][  0]LogSlate: Took 0.024108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.05-14.57.14:454][  0]LogSlate: Took 0.016826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.05-14.57.15:589][  0]LogRenderer: Reallocating scene render targets to support 1028x580 Format 10 NumSamples 1 (Frame:1).
+[2018.12.05-14.57.16:864][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.05-14.57.16:864][  0]LogLoad: (Engine Initialization) Total time: 165.33 seconds
+[2018.12.05-14.57.16:864][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.05-14.57.16:981][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.05-14.57.16:996][  0]LogOcInput: OculusInput is initialized
+[2018.12.05-14.57.17:549][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.05-14.57.18:097][  1]LogSlate: Took 0.021871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.05-14.57.18:388][  3]LogAssetRegistry: Asset discovery search completed in 112.5795 seconds
+[2018.12.05-14.57.18:453][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.05-14.57.18:453][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.004715 seconds (updated 0 objects)
+[2018.12.05-14.57.37:797][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-14.57.37:852][272]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.05-14.57.37:948][272]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.12.05-14.57.37:972][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-14.57.38:001][272]LogHMD: Initializing OVRPlugin session
+[2018.12.05-14.57.38:170][272]LogOnline: Warning: STEAM: Steam API disabled!
+[2018.12.05-14.57.38:171][272]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.12.05-14.57.38:227][272]PIE: New page: PIE session: 2DSideScrollerExampleMap (5 Dec 2018 14:57:38)
+[2018.12.05-14.57.38:228][272]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_2DSideScrollerExampleMap
+[2018.12.05-14.57.38:395][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166627s)
+[2018.12.05-14.57.38:396][272]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.12.05-14.57.38:409][272]LogPlayLevel: PIE: World Init took: (0.013800s)
+[2018.12.05-14.57.38:415][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/Maps/UEDPIE_1_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.187108s)
+[2018.12.05-14.57.38:515][272]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-14.57.38:527][272]LogInit: FAudioDevice initialized.
+[2018.12.05-14.57.38:569][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-14.57.38:720][272]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.05-14.57.38:932][272]LogWorld: Bringing World /Game/Maps/UEDPIE_1_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.12.05-14.57.38
+[2018.12.05-14.57.39:015][272]LogWorld: Bringing up level for play took: 0.085876
+[2018.12.05-14.57.39:246][272]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.12.05-14.57.39:348][272]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.12.05-14.57.39:355][272]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.12.05-14.57.39:355][272]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.12.05-14.57.39:359][272]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2018.12.05-14.57.39:359][272]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.12.05-14.57.39:361][272]LogInit: WinSock: I am Vigor-Vanquish (192.168.0.16:0)
+[2018.12.05-14.57.39:415][272]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.12.05-14.57.39:418][272]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2018.12.05-14.57.39:590][272]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_2DSideScrollerExampleMap 1.22
+[2018.12.05-14.57.39:606][272]PIE: New page: PIE session: 2DSideScrollerExampleMap (5 Dec 2018 14:57:39)
+[2018.12.05-14.57.39:671][272]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-14.57.39:674][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-14.57.39:699][272]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:CageInteraction:0013
+[2018.12.05-14.57.39:699][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerOwner". Blueprint:  ControlPanel Function:  Cage Interaction Graph:  CageInteraction Node:  Branch
+[2018.12.05-14.57.39:700][272]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:CageInteraction:0013
+[2018.12.05-14.57.39:700][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerOwner". Blueprint:  ControlPanel Function:  Cage Interaction Graph:  CageInteraction Node:  Branch
+[2018.12.05-14.57.39:702][272]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:CageInteraction:0013
+[2018.12.05-14.57.39:702][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerOwner". Blueprint:  ControlPanel Function:  Cage Interaction Graph:  CageInteraction Node:  Branch
+[2018.12.05-14.57.39:702][272]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:CageInteraction:0013
+[2018.12.05-14.57.39:702][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerOwner". Blueprint:  ControlPanel Function:  Cage Interaction Graph:  CageInteraction Node:  Branch
+[2018.12.05-14.57.39:706][272]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:CageInteraction:0013
+[2018.12.05-14.57.39:706][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerOwner". Blueprint:  ControlPanel Function:  Cage Interaction Graph:  CageInteraction Node:  Branch
+[2018.12.05-14.57.39:706][272]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:CageInteraction:0013
+[2018.12.05-14.57.39:706][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerOwner". Blueprint:  ControlPanel Function:  Cage Interaction Graph:  CageInteraction Node:  Branch
+[2018.12.05-14.57.39:773][272]LogNet: Browse: 127.0.0.1:17777//Game/Maps/2DSideScrollerExampleMap
+[2018.12.05-14.57.39:773][272]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.12.05-14.57.39:773][272]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.12.05-14.57.39:773][272]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.12.05-14.57.39:773][272]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.12.05-14.57.39:802][272]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.12.05-14.57.39:850][272]LogNet: Game client on port 17777, rate 10000
+[2018.12.05-14.57.39:892][272]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:CageInteraction:0013
+[2018.12.05-14.57.39:892][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerOwner". Blueprint:  ControlPanel Function:  Cage Interaction Graph:  CageInteraction Node:  Branch
+[2018.12.05-14.57.39:892][272]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:CageInteraction:0013
+[2018.12.05-14.57.39:892][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerOwner". Blueprint:  ControlPanel Function:  Cage Interaction Graph:  CageInteraction Node:  Branch
+[2018.12.05-14.57.39:894][272]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:CageInteraction:0013
+[2018.12.05-14.57.39:894][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerOwner". Blueprint:  ControlPanel Function:  Cage Interaction Graph:  CageInteraction Node:  Branch
+[2018.12.05-14.57.39:894][272]LogScript: Warning: Accessed None trying to read property PlayerOwner
+	ControlPanel_C /Engine/Transient.UnrealEdEngine_0:GTGameInstance_C_0.ControlPanel_C_0
+	Function /Game/UI/ControlPanel.ControlPanel_C:CageInteraction:0013
+[2018.12.05-14.57.39:894][272]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerOwner". Blueprint:  ControlPanel Function:  Cage Interaction Graph:  CageInteraction Node:  Branch
+[2018.12.05-14.57.39:894][272]PIE: Play in editor start time for /Game/Maps/2DSideScrollerExampleMap 1.524
+[2018.12.05-14.57.39:916][272]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.12.05-14.57.39:932][272]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49663
+[2018.12.05-14.57.39:932][272]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 187081020197042183028099073135101130018075138087044134010112
+[2018.12.05-14.57.40:143][272]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 187081020197042183028099073135101130018075138087044134010112
+[2018.12.05-14.57.40:342][272]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.12.05-14.57.40:618][273]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49663
+[2018.12.05-14.57.40:618][273]LogHandshake: SendChallengeAck. InCookie: 187081020197042183028099073135101130018075138087044134010112
+[2018.12.05-14.57.40:618][273]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49663
+[2018.12.05-14.57.40:619][273]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.12.05-14.57.40:619][273]LogNet: NotifyAcceptedConnection: Name: 2DSideScrollerExampleMap, TimeStamp: 12/05/18 14:57:40, [UNetConnection] RemoteAddr: 127.0.0.1:49663, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.12.05-14.57.40:620][273]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49663, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.12.05-14.57.40:681][273]LogNetVersion: GTRP 1.0.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1242779128)
+[2018.12.05-14.57.40:681][273]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.12.05-14.57.40:797][274]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_2DSideScrollerExampleMap.2DSideScrollerExampleMap: Accepted
+[2018.12.05-14.57.40:798][274]LogNet: Remote platform little endian=1
+[2018.12.05-14.57.40:798][274]LogNet: This platform little endian=1
+[2018.12.05-14.57.40:841][275]LogNet: Login request: /Game/Maps/2DSideScrollerExampleMap?Name=Vigor-Vanquish-243BC93249D887D1338C958CC6EDD7A6 userId: Vigor-Vanquish-243BC93249D887D1338C958CC6EDD7A6
+[2018.12.05-14.57.40:888][275]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_2DSideScrollerExampleMap, Game: /Game/CharacterBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C)
+[2018.12.05-14.57.40:891][275]LogLoadingSplash: Loading begins
+[2018.12.05-14.57.40:935][275]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_2DSideScrollerExampleMap?game=/Game/CharacterBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C
+[2018.12.05-14.57.41:100][275]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.12.05-14.57.41:100][275]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.12.05-14.57.41:129][275]LogWorld: Bringing World /Game/Maps/UEDPIE_2_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.12.05-14.57.41
+[2018.12.05-14.57.41:129][275]LogWorld: Bringing up level for play took: 0.002255
+[2018.12.05-14.57.41:136][275]LogLoadingSplash: Loading ends
+[2018.12.05-14.57.41:136][275]LogLoad: Took 0.200255 seconds to LoadMap(/Game/Maps/UEDPIE_1_2DSideScrollerExampleMap)
+[2018.12.05-14.57.41:225][276]LogNet: Client netspeed is 10000
+[2018.12.05-14.57.41:225][276]LogNet: Join request: /Game/Maps/2DSideScrollerExampleMap?Name=Vigor-Vanquish-243BC93249D887D1338C958CC6EDD7A6?SplitscreenCount=1
+[2018.12.05-14.57.41:226][276]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.12.05-14.57.41:321][276]LogNet: Join succeeded: Vigor-Vanquish-243BC
+[2018.12.05-14.57.41:470][277]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.12.05-14.57.41:471][277]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.12.05-14.57.43:368][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-14.57.43:532][452]LogSlate: Window 'GTRP Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.05-14.57.43:594][452]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.12.05-14.57.43:698][452]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.12.05-14.57.43:720][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-14.57.43:744][452]LogSlate: Window 'GTRP Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.05-14.57.43:816][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-14.57.43:816][452]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.12.05-14.57.43:837][452]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49663, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:Vigor-Vanquish-243BC93249D887D1338C958CC6EDD7A6
+[2018.12.05-14.57.43:837][452]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49663, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:Vigor-Vanquish-243BC93249D887D1338C958CC6EDD7A6, Channels: 2, Time: 2018.12.05-14.57.43
+[2018.12.05-14.57.43:837][452]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49663, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:Vigor-Vanquish-243BC93249D887D1338C958CC6EDD7A6
+[2018.12.05-14.57.43:837][452]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:Vigor-Vanquish-243BC93249D887D1338C958CC6EDD7A6
+[2018.12.05-14.57.43:837][452]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:Vigor-Vanquish-243BC93249D887D1338C958CC6EDD7A6, Channels: 2, Time: 2018.12.05-14.57.43
+[2018.12.05-14.57.43:837][452]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, UniqueId: NULL:Vigor-Vanquish-243BC93249D887D1338C958CC6EDD7A6
+[2018.12.05-14.57.43:905][452]LogExit: GameNetDriver None shut down
+[2018.12.05-14.57.43:906][452]LogExit: GameNetDriver None shut down
+[2018.12.05-14.57.44:060][453]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.12.05-14.57.44:060][453]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.12.05-14.57.47:669][859]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.05-14.57.47:694][859]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.12.05-14.57.47:694][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-14.57.47:694][859]LogHMD: Initializing OVRPlugin session
+[2018.12.05-14.57.47:731][859]PIE: New page: PIE session: 2DSideScrollerExampleMap (5 Dec 2018 14:57:47)
+[2018.12.05-14.57.47:732][859]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.12.05-14.57.47:738][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006175s)
+[2018.12.05-14.57.47:738][859]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.12.05-14.57.47:739][859]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2018.12.05-14.57.47:739][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.007033s)
+[2018.12.05-14.57.47:772][859]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-14.57.47:783][859]LogInit: FAudioDevice initialized.
+[2018.12.05-14.57.47:798][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-14.57.47:852][859]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.05-14.57.47:856][859]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.12.05-14.57.47
+[2018.12.05-14.57.47:856][859]LogWorld: Bringing up level for play took: 0.003011
+[2018.12.05-14.57.47:876][859]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.494
+[2018.12.05-14.57.47:876][859]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.12.05-14.58.22:901][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-14.58.23:005][901]LogSlate: Window 'GTRP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.05-14.58.23:010][901]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.12.05-14.58.23:065][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-14.58.23:065][901]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.12.05-14.58.23:112][902]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.12.05-14.58.34:281][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-14.58.34:388][916]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.05-14.58.34:415][916]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.12.05-14.58.34:416][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-14.58.34:416][916]LogHMD: Initializing OVRPlugin session
+[2018.12.05-14.58.34:454][916]PIE: New page: PIE session: 2DSideScrollerExampleMap (5 Dec 2018 14:58:34)
+[2018.12.05-14.58.34:454][916]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.12.05-14.58.34:462][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008109s)
+[2018.12.05-14.58.34:463][916]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.12.05-14.58.34:463][916]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2018.12.05-14.58.34:463][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.008975s)
+[2018.12.05-14.58.34:747][916]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-14.58.34:758][916]LogInit: FAudioDevice initialized.
+[2018.12.05-14.58.34:773][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-14.58.34:821][916]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.05-14.58.34:825][916]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.12.05-14.58.34
+[2018.12.05-14.58.34:921][916]LogWorld: Bringing up level for play took: 0.099652
+[2018.12.05-14.58.34:942][916]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.573
+[2018.12.05-14.58.34:942][916]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.12.05-14.58.36:485][ 87]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character
+	2DSideScrollerCharacter_C /Game/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_2
+	Function /Game/CharacterBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter:0EF6
+[2018.12.05-14.58.36:485][ 87]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_As2DSide_Scroller_Character". Blueprint:  2DSideScrollerCharacter Function:  Execute Ubergraph 2DSide Scroller Character Graph:  EventGraph Node:  Character Pick Up
+[2018.12.05-14.58.38:052][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-14.58.38:166][282]LogSlate: Window 'GTRP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.05-14.58.38:171][282]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.12.05-14.58.38:445][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-14.58.38:445][282]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.12.05-14.58.38:656][283]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.12.05-14.58.38:760][291]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2018.12.05-14.58.44:176][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-14.58.50:585][365]LogSlate: Took 0.070176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.05-14.58.52:368][530]Cmd: DELETE
+[2018.12.05-14.58.52:368][530]Cmd: ACTOR DELETE
+[2018.12.05-14.58.52:752][530]LogEditorActor: Deleted Actor: 2DSideScrollerCharacter_C
+[2018.12.05-14.58.52:825][530]LogEditorActor: Deleted 1 Actors (0.158 secs)
+[2018.12.05-14.58.59:394][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-14.59.05:329][943]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.05-14.59.24:596][943]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/2DSideScrollerExampleMap55975CBF417D3EBEE90A7692B6ACE14B.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Maps/2DSideScrollerExampleMap.umap'
+[2018.12.05-14.59.24:974][943]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/2DSideScrollerExampleMap_BuiltDa5B14320445730A773D0B628765EFB4B8.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2018.12.05-14.59.31:598][361]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.05-14.59.31:660][361]LogAssetEditorManager: Opening Asset editor for World /Game/Menus/Maps/MainMenu.MainMenu
+[2018.12.05-14.59.31:759][361]Cmd: MAP LOAD FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.05-14.59.31:759][361]LightingResults: New page: Lighting Build
+[2018.12.05-14.59.31:760][361]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.12.05-14.59.31:847][361]MapCheck: New page: Map Check
+[2018.12.05-14.59.31:847][361]LightingResults: New page: Lighting Build
+[2018.12.05-14.59.32:088][361]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.05-14.59.32:163][361]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.05-14.59.32:247][361]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83.69ms to complete.
+[2018.12.05-14.59.32:247][361]LogFileHelpers: Loading map 'MainMenu' took 0.509
+[2018.12.05-14.59.36:891][896]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.05-14.59.36:916][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-14.59.36:916][896]LogHMD: Initializing OVRPlugin session
+[2018.12.05-14.59.36:961][896]PIE: New page: PIE session: MainMenu (5 Dec 2018 14:59:36)
+[2018.12.05-14.59.36:962][896]LogPlayLevel: Creating play world package: /Game/Menus/Maps/UEDPIE_0_MainMenu
+[2018.12.05-14.59.36:964][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001922s)
+[2018.12.05-14.59.36:964][896]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.05-14.59.36:964][896]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2018.12.05-14.59.36:965][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menus/Maps/MainMenu.MainMenu to /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu (0.002795s)
+[2018.12.05-14.59.37:000][896]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-14.59.37:013][896]LogInit: FAudioDevice initialized.
+[2018.12.05-14.59.37:025][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-14.59.37:078][896]LogLoad: Game class is 'MenuGameMode_C'
+[2018.12.05-14.59.37:079][896]LogWorld: Bringing World /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.05-14.59.37
+[2018.12.05-14.59.37:080][896]LogWorld: Bringing up level for play took: 0.001050
+[2018.12.05-14.59.37:153][896]PIE: Play in editor start time for /Game/Menus/Maps/UEDPIE_0_MainMenu 0.783
+[2018.12.05-14.59.39:643][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.01.09:245][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.01.33:128][649]LogBlueprintUserMessages: [GTGameInstance_C_4] 2 characters saved
+[2018.12.05-15.01.36:163][  7]LogSlate: Window 'GTRP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.05-15.01.36:200][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-15.01.36:245][  9]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.12.05-15.01.39:955][445]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.12.05-15.01.39:962][445]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2018.12.05-15.01.40:006][445]Cmd: MAP LOAD FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.05-15.01.40:006][445]LightingResults: New page: Lighting Build
+[2018.12.05-15.01.40:007][445]LoadErrors: New page: Loading map: 2DSideScrollerExampleMap.umap
+[2018.12.05-15.01.40:008][445]MapCheck: New page: Map Check
+[2018.12.05-15.01.40:008][445]LightingResults: New page: Lighting Build
+[2018.12.05-15.01.40:126][445]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.05-15.01.40:193][445]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.05-15.01.40:283][445]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.802ms to complete.
+[2018.12.05-15.01.40:283][445]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.278
+[2018.12.05-15.01.41:435][573]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.05-15.01.41:461][573]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.12.05-15.01.41:461][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-15.01.41:461][573]LogHMD: Initializing OVRPlugin session
+[2018.12.05-15.01.41:503][573]PIE: New page: PIE session: 2DSideScrollerExampleMap (5 Dec 2018 15:01:41)
+[2018.12.05-15.01.41:504][573]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.12.05-15.01.41:510][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006206s)
+[2018.12.05-15.01.41:511][573]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.12.05-15.01.41:511][573]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2018.12.05-15.01.41:511][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.007306s)
+[2018.12.05-15.01.41:547][573]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.05-15.01.41:556][573]LogInit: FAudioDevice initialized.
+[2018.12.05-15.01.41:570][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-15.01.41:618][573]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.05-15.01.41:622][573]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2018.12.05-15.01.41
+[2018.12.05-15.01.41:622][573]LogWorld: Bringing up level for play took: 0.003351
+[2018.12.05-15.01.41:640][573]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.729
+[2018.12.05-15.01.41:641][573]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.12.05-15.01.51:473][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.02.04:933][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.02.59:589][864]LogSlate: Window 'GTRP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.05-15.02.59:593][864]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.12.05-15.02.59:625][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-15.02.59:626][864]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.12.05-15.02.59:669][865]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.12.05-15.51.24:635][869]AssetReimport: New page: Outstanding source content changes 15:51:24
+[2018.12.05-15.51.24:716][870]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Skeleton/HeldCalmSheet.png)
+[2018.12.05-15.51.25:250][871]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet8959A02447000F6B1C45D79F8923E061.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Skeleton/HeldCalmSheet.uasset'
+[2018.12.05-15.51.28:261][220]AssetReimport: Importing new asset /Game/CharacterAssets/Textures/Skeleton/HeldCalmSheet.
+[2018.12.05-15.52.02:464][102]LogSlate: Took 0.025358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.05-15.52.27:340][946]LogSlate: Window 'Extract sprites' being destroyed
+[2018.12.05-15.52.32:165][463]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_0D32F26E249791BA900287AA23ADCAC1F.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_0.uasset'
+[2018.12.05-15.52.32:191][463]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_13F20C9EC40AEF0E7E4C4CE9E591A8E08.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_1.uasset'
+[2018.12.05-15.52.32:237][463]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_20564901E4C02D4BA7D890AAE9AFBF7F6.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_2.uasset'
+[2018.12.05-15.52.32:262][463]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_35D73E0FC424A07D2392B15B4888A8623.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_3.uasset'
+[2018.12.05-15.52.32:289][463]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_422485949424F1B70D807968EF0A705AC.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_4.uasset'
+[2018.12.05-15.52.32:312][463]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_5EA4900674D1D9C16F8AE968CB9F34F29.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_5.uasset'
+[2018.12.05-15.52.32:339][463]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_6686396BC41006ECAEBDEBC9B5D9926EB.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_6.uasset'
+[2018.12.05-15.52.32:363][463]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_7555642E343F0E2EFB51B18B0197F1F3A.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_7.uasset'
+[2018.12.05-15.52.32:431][463]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_8320311A04349D2CFED10F4B164256F36.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_8.uasset'
+[2018.12.05-15.52.32:457][463]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_97AD8049A4E51706EAF7C559F4AED798A.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_9.uasset'
+[2018.12.05-15.52.32:481][463]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_10727AC73641BC678C68FDD689FF6E622D.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_10.uasset'
+[2018.12.05-15.52.32:505][463]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_11E4E87E0B4B3B9454606EB58EC85E7BFC.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_11.uasset'
+[2018.12.05-15.52.43:150][571]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/CharacterAssets/Sprites/Skeleton/Flipbooks/HeldCalm.HeldCalm
+[2018.12.05-15.52.43:590][571]LogRenderer: Reallocating scene render targets to support 1528x828 Format 10 NumSamples 1 (Frame:1).
+[2018.12.05-15.53.04:697][677]LogRenderer: Reallocating scene render targets to support 1528x844 Format 10 NumSamples 1 (Frame:1119).
+[2018.12.05-15.53.18:476][176]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmE6EBF76945D041A1CC5449B1E263A2CC.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Flipbooks/HeldCalm.uasset'
+[2018.12.05-15.53.52:855][698]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_Idle/IdleSheet_SkeletonIdle_0.IdleSheet_SkeletonIdle_0
+[2018.12.05-15.53.53:312][699]LogRenderer: Reallocating scene render targets to support 1528x960 Format 10 NumSamples 1 (Frame:1).
+[2018.12.05-15.56.52:613][976]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_03738AEF74D646FEAD2C5CABCF66FC165.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_0.uasset'
+[2018.12.05-15.56.52:706][976]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_1256D12A949AEBD2078BD7E845ED4BD0E.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_1.uasset'
+[2018.12.05-15.56.52:798][976]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_2DF7C13B84C12D905F1C1EA8A0E5DA9E9.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_2.uasset'
+[2018.12.05-15.56.52:889][976]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_392692E9A4B247BA9A3D1D88E0BB46B41.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_3.uasset'
+[2018.12.05-15.56.52:983][976]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_405E75AE340C7275DC04D50A17DF02C2F.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_4.uasset'
+[2018.12.05-15.56.53:087][976]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_55A6FBECE42373EB63A320BA74F1E90FE.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_5.uasset'
+[2018.12.05-15.56.53:182][976]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_607A224A24B463B3D6DED05A06600B498.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_6.uasset'
+[2018.12.05-15.56.53:276][976]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_7498DF01541709FE01AF135A63360FC7C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_7.uasset'
+[2018.12.05-15.56.53:402][976]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_8A2C57F8E4758F113C9913AB018C14D4F.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_8.uasset'
+[2018.12.05-15.56.53:526][976]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_9116692FB4D3CA2C9830C229B49AE1DFD.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_9.uasset'
+[2018.12.05-15.56.53:919][976]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_10A27D1753488E2C9E9FC29FB8A95F244F.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_10.uasset'
+[2018.12.05-15.56.54:015][976]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_11AF04609D4CAFE60F79A89782539D1E97.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_11.uasset'
+[2018.12.05-15.57.39:268][ 32]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_0.HeldCalmSheet_HeldCalm_0
+[2018.12.05-15.58.13:024][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-15.59.46:585][537]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/2DSideScrollerExampleMap' took 0.022
+[2018.12.05-15.59.46:601][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_0] ([1] browsable assets)...
+[2018.12.05-15.59.46:608][537]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_0.HeldCalmSheet_HeldCalm_0]
+[2018.12.05-15.59.46:608][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_0]
+[2018.12.05-15.59.46:681][537]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_0_Auto18D94E4E74259BE94867C8CBCC86F5935.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_0_Auto1.uasset'
+[2018.12.05-15.59.46:683][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_1] ([1] browsable assets)...
+[2018.12.05-15.59.46:690][537]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_1.HeldCalmSheet_HeldCalm_1]
+[2018.12.05-15.59.46:691][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_1]
+[2018.12.05-15.59.46:767][537]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_1_Auto1BD508CBD4FD1E040EE4EC6A79051E722.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_1_Auto1.uasset'
+[2018.12.05-15.59.46:769][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_2] ([1] browsable assets)...
+[2018.12.05-15.59.46:778][537]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_2.HeldCalmSheet_HeldCalm_2]
+[2018.12.05-15.59.46:778][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_2]
+[2018.12.05-15.59.46:854][537]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_2_Auto11172335B43A62779667A90A8AC20D0E9.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_2_Auto1.uasset'
+[2018.12.05-15.59.46:857][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_3] ([1] browsable assets)...
+[2018.12.05-15.59.46:865][537]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_3.HeldCalmSheet_HeldCalm_3]
+[2018.12.05-15.59.46:865][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_3]
+[2018.12.05-15.59.46:941][537]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_3_Auto1F9DFB3C04969E58B1F1D8FA5BBC4BC90.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_3_Auto1.uasset'
+[2018.12.05-15.59.46:942][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_4] ([1] browsable assets)...
+[2018.12.05-15.59.46:949][537]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_4.HeldCalmSheet_HeldCalm_4]
+[2018.12.05-15.59.46:949][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_4]
+[2018.12.05-15.59.47:020][537]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_4_Auto1F0DFE23B4DD7EE1FE2CDBFB4C29384FC.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_4_Auto1.uasset'
+[2018.12.05-15.59.47:022][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_5] ([1] browsable assets)...
+[2018.12.05-15.59.47:030][537]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_5.HeldCalmSheet_HeldCalm_5]
+[2018.12.05-15.59.47:030][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_5]
+[2018.12.05-15.59.47:104][537]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_5_Auto11352CB0E433B57F7C4A4E0A9A1C47759.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_5_Auto1.uasset'
+[2018.12.05-15.59.47:106][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_6] ([1] browsable assets)...
+[2018.12.05-15.59.47:114][537]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_6.HeldCalmSheet_HeldCalm_6]
+[2018.12.05-15.59.47:114][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_6]
+[2018.12.05-15.59.47:194][537]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_6_Auto18768C33340CA4A7F1F094E9A66445A25.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_6_Auto1.uasset'
+[2018.12.05-15.59.47:195][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_7] ([1] browsable assets)...
+[2018.12.05-15.59.47:203][537]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_7.HeldCalmSheet_HeldCalm_7]
+[2018.12.05-15.59.47:203][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_7]
+[2018.12.05-15.59.47:280][537]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_7_Auto15DBA951D4138DC3B2875E8B80CBB948D.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_7_Auto1.uasset'
+[2018.12.05-15.59.47:281][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_8] ([1] browsable assets)...
+[2018.12.05-15.59.47:288][537]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_8.HeldCalmSheet_HeldCalm_8]
+[2018.12.05-15.59.47:289][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_8]
+[2018.12.05-15.59.47:364][537]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_8_Auto1361D57F248E339B4490DB393477AF56F.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_8_Auto1.uasset'
+[2018.12.05-15.59.47:365][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_9] ([1] browsable assets)...
+[2018.12.05-15.59.47:372][537]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_9.HeldCalmSheet_HeldCalm_9]
+[2018.12.05-15.59.47:372][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_9]
+[2018.12.05-15.59.47:446][537]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_9_Auto11A3617894A4C7318EC8073999A192526.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_9_Auto1.uasset'
+[2018.12.05-15.59.47:447][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_10] ([1] browsable assets)...
+[2018.12.05-15.59.47:454][537]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_10.HeldCalmSheet_HeldCalm_10]
+[2018.12.05-15.59.47:454][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_10]
+[2018.12.05-15.59.47:540][537]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_10_Auto158DC749A42BAD1AA9A32F2971E216D1C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_10_Auto1.uasset'
+[2018.12.05-15.59.47:542][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_11] ([1] browsable assets)...
+[2018.12.05-15.59.47:549][537]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_11.HeldCalmSheet_HeldCalm_11]
+[2018.12.05-15.59.47:549][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_11]
+[2018.12.05-15.59.47:632][537]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_11_Auto1C9645D5B43FB9287929BB3892A2C364D.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_11_Auto1.uasset'
+[2018.12.05-15.59.47:633][537]LogFileHelpers: Auto-saving content packages took 1.047
+[2018.12.05-16.09.08:584][494]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_08F63642F49A892FF8B75F88D122320EB.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_0.uasset'
+[2018.12.05-16.09.13:167][700]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_0E43CAF72406ABED09CFE7187468CEC24.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_0.uasset'
+[2018.12.05-16.09.13:255][700]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_198434172479AC6868682B0BAB7790405.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_1.uasset'
+[2018.12.05-16.09.13:361][700]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_2DDC707584333ECBADEAA9B8FC99D23A7.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_2.uasset'
+[2018.12.05-16.09.13:470][700]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_367AB1DF148ACDEDAA096DD81855A6DC1.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_3.uasset'
+[2018.12.05-16.09.13:582][700]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_4D20C666B49E0774A2CB849A81BFFDA8C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_4.uasset'
+[2018.12.05-16.09.13:687][700]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_5CA9F24C341F0870D6AAD3CA451166300.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_5.uasset'
+[2018.12.05-16.09.13:809][700]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_664AC4AAC4E28C55964513D91CCB7338A.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_6.uasset'
+[2018.12.05-16.09.13:914][700]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_7E39CE56F420C814F43C7E2948C4CC349.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_7.uasset'
+[2018.12.05-16.09.14:017][700]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_84AB051474107698F279B52AF21F51E7C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_8.uasset'
+[2018.12.05-16.09.14:121][700]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_9ED72D3C44C3FD14DC59985BFEC1B6E79.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_9.uasset'
+[2018.12.05-16.09.14:230][700]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_1050C6821A492ED1E4C8A9E4ACDAF9E859.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_10.uasset'
+[2018.12.05-16.09.14:334][700]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/HeldCalmSheet_HeldCalm_1103A347514D0AF310ACD381983CD21B15.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Skeleton/Frames_HeldCalm/HeldCalmSheet_HeldCalm_11.uasset'
+[2018.12.05-16.09.18:414][883]LogSlate: Window '12 PaperSprite Objects - Property Matrix Editor' being destroyed
+[2018.12.05-16.09.18:420][883]LogSlate: Window '12 PaperSprite Objects - Property Matrix Editor' being destroyed
+[2018.12.05-16.09.27:122][841]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CharacterBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2018.12.05-16.09.28:263][841]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.12.05-16.10.01:093][138]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-16.10.04:836][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-16.10.04:916][441]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.12.05-16.10.06:299][476]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/2DSideScrollerCharacterECB15B404A5691CE447A0A965AF21B29.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.12.05-16.10.44:091][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-16.10.53:254][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-16.10.58:170][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-16.11.04:035][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-16.11.08:362][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-16.11.15:755][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-16.11.25:495][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-16.11.36:657][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-16.13.44:218][322]LogWindows: Windows GetLastError: The operation completed successfully. (0)

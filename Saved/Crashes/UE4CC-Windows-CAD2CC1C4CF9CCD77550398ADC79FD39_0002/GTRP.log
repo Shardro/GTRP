@@ -1,0 +1,1338 @@
+﻿Log file open, 12/08/18 19:05:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GTRP
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.308129
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin VictoryBPLibrary
+LogStreaming: Display: Took  0.435s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 980 Ti
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.069s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.08-19.05.12:899][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.08-19.05.12:899][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.08-19.05.13:035][  0]LogHAL: Display: Platform has ~ 16 GB [17116696576 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.08-19.05.13:035][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.08-19.05.13:035][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.08-19.05.13:063][  0]LogInit: Computer: VIGOR-VANQUISH
+[2018.12.08-19.05.13:063][  0]LogInit: User: James
+[2018.12.08-19.05.13:063][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.08-19.05.13:063][  0]LogInit: High frequency timer resolution =3.514607 MHz
+[2018.12.08-19.05.13:064][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.08-19.05.13:064][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.08-19.05.13:064][  0]LogMemory: Process Physical Memory: 106.91 MB used, 106.91 MB peak
+[2018.12.08-19.05.13:064][  0]LogMemory: Process Virtual Memory: 99.20 MB used, 99.20 MB peak
+[2018.12.08-19.05.13:064][  0]LogMemory: Physical Memory: 6551.61 MB used,  9772.14 MB free, 16323.75 MB total
+[2018.12.08-19.05.13:064][  0]LogMemory: Virtual Memory: 4663.99 MB used,  9772.14 MB free, 134217728.00 MB total
+[2018.12.08-19.05.13:473][  0]LogInit: Using OS detected language (en-GB).
+[2018.12.08-19.05.13:473][  0]LogInit: Using OS detected locale (en-GB).
+[2018.12.08-19.05.13:538][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.12.08-19.05.14:402][  0]LogStreaming: Display: Took  0.929s to InitEngineTextLocalization.
+[2018.12.08-19.05.14:402][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.08-19.05.15:154][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.08-19.05.15:154][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.08-19.05.23:726][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.08-19.05.23:773][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2018.12.08-19.05.23:773][  0]LogD3D11RHI:       6097/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.12.08-19.05.23:775][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.08-19.05.23:775][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.08-19.05.23:775][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.08-19.05.23:781][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.08-19.05.23:781][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.08-19.05.23:781][  0]LogWindows: EnumDisplayDevices:
+[2018.12.08-19.05.23:781][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2018.12.08-19.05.23:782][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2018.12.08-19.05.23:782][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2018.12.08-19.05.23:782][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.12.08-19.05.23:782][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.08-19.05.23:782][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2018.12.08-19.05.23:782][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2018.12.08-19.05.23:782][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2018.12.08-19.05.23:782][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2018.12.08-19.05.23:816][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.08-19.05.23:854][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.08-19.05.23:903][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/James/Documents/Unreal Projects/GTRP/Intermediate/Shaders/WorkingDirectory/4420/).
+[2018.12.08-19.05.23:903][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/James/AppData/Local/Temp/UnrealShaderWorkingDir/FE5B21A3412079A34348968543CDB108/'.
+[2018.12.08-19.05.24:751][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.08-19.05.24:771][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.08-19.05.24:792][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.08-19.05.24:813][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.08-19.05.24:939][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.08-19.05.24:978][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.08-19.05.24:997][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.08-19.05.25:019][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.08-19.05.25:037][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:225][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-19.05.25:246][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.08-19.05.25:362][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.08-19.05.25:362][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.08-19.05.25:410][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.08-19.05.25:410][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.08-19.05.25:425][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.08-19.05.25:453][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.08-19.05.25:481][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.08-19.05.25:550][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.08-19.05.25:583][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.08-19.05.25:583][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.08-19.05.25:969][  0]LogXGEController: Cleaning working directory: C:/Users/James/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.08-19.05.25:969][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.08-19.05.25:969][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.08-19.05.25:969][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.08-19.05.30:810][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.08-19.05.31:558][  0]LogDerivedDataCache: Loaded boot cache 0.72s 86MB C:/Users/James/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.08-19.05.31:558][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/James/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.08-19.05.31:558][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/James/Documents/Unreal Projects/GTRP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.08-19.05.31:558][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.08-19.05.31:558][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/James/Documents/Unreal Projects/GTRP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.08-19.05.31:558][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.08-19.05.31:632][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.08-19.05.31:644][  0]LogDerivedDataCache: Using Local data cache path C:/Users/James/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.08-19.05.31:644][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.08-19.05.31:644][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.08-19.05.31:661][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.08-19.05.31:662][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.08-19.05.31:873][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.08-19.05.34:596][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.12.08-19.05.34:944][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.08-19.05.37:226][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.08-19.05.37:404][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.08-19.05.37:404][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.08-19.05.37:404][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.08-19.05.37:404][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.08-19.05.37:449][  0]LogNetVersion: GTRP 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3875077618)
+[2018.12.08-19.05.40:328][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.560289 seconds
+[2018.12.08-19.05.40:336][  0]LogUObjectArray: 38434 objects as part of root set at end of initial load.
+[2018.12.08-19.05.40:336][  0]LogUObjectAllocator: 6701144 out of 0 bytes used by permanent object pool.
+[2018.12.08-19.05.40:336][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.08-19.06.18:805][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.08-19.06.18:820][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.08-19.06.21:274][  0]SourceControl: Source control is disabled
+[2018.12.08-19.06.21:274][  0]SourceControl: Source control is disabled
+[2018.12.08-19.06.21:310][  0]SourceControl: Source control is disabled
+[2018.12.08-19.06.21:320][  0]SourceControl: Source control is disabled
+[2018.12.08-19.06.22:345][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.08-19.06.22:539][  0]LogOcInput: OculusInput pre-init called
+[2018.12.08-19.06.22:868][  0]LogEngine: Initializing Engine...
+[2018.12.08-19.06.22:869][  0]LogHMD: Oculus plugin initialized. Version: 4.20.3-4369336+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2018.12.08-19.06.22:871][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.08-19.06.22:871][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.08-19.06.22:871][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.08-19.06.22:871][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.08-19.06.23:262][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.08-19.06.23:332][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.08-19.06.23:354][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.08-19.06.23:381][  0]LogInit: FAudioDevice initialized.
+[2018.12.08-19.06.23:382][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.08-19.06.23:541][  0]LogDerivedDataCache: Saved boot cache 0.16s 86MB C:/Users/James/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.08-19.06.23:557][  0]LogInit: Texture streaming: Enabled
+[2018.12.08-19.06.23:795][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.08-19.06.24:042][  0]LogInit: Transaction tracking system initialized
+[2018.12.08-19.06.24:156][  0]BlueprintLog: New page: Editor Load
+[2018.12.08-19.06.24:566][  0]LocalizationService: Localization service is disabled
+[2018.12.08-19.06.27:595][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.08-19.06.27:595][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.08-19.06.27:595][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.08-19.06.27:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.08-19.06.27:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.08-19.06.27:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.08-19.06.27:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.08-19.06.28:991][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/GTRP/Content/' took 0.27s
+[2018.12.08-19.06.30:968][  0]SourceControl: Source control is disabled
+[2018.12.08-19.06.30:968][  0]Cmd: MAP LOAD FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Maps/House.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.08-19.06.30:968][  0]LightingResults: New page: Lighting Build
+[2018.12.08-19.06.31:039][  0]MapCheck: New page: Map Check
+[2018.12.08-19.06.31:039][  0]LightingResults: New page: Lighting Build
+[2018.12.08-19.06.32:056][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Heads/Head1'
+[2018.12.08-19.06.32:056][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Heads/Head1'
+[2018.12.08-19.06.32:057][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Extras/Neck1'
+[2018.12.08-19.06.32:057][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Extras/Neck1'
+[2018.12.08-19.06.32:057][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Torso_Upper/UpperTorso1'
+[2018.12.08-19.06.32:057][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Torso_Upper/UpperTorso1'
+[2018.12.08-19.06.32:057][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Torso_Lower/LowerTorso1'
+[2018.12.08-19.06.32:057][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Torso_Lower/LowerTorso1'
+[2018.12.08-19.06.32:057][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Eyes/Eye1'
+[2018.12.08-19.06.32:058][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Eyes/Eye1'
+[2018.12.08-19.06.32:058][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Arms/UpperArm1'
+[2018.12.08-19.06.32:058][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Arms/UpperArm1'
+[2018.12.08-19.06.32:058][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Arms/LowerArm1'
+[2018.12.08-19.06.32:058][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Arms/LowerArm1'
+[2018.12.08-19.06.32:058][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Legs/UpperLeg1'
+[2018.12.08-19.06.32:058][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Legs/UpperLeg1'
+[2018.12.08-19.06.32:059][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Legs/LowerLeg1'
+[2018.12.08-19.06.32:059][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Legs/LowerLeg1'
+[2018.12.08-19.06.32:059][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Hands/FrontResting1'
+[2018.12.08-19.06.32:059][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Hands/FrontResting1'
+[2018.12.08-19.06.32:059][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Hands/BackResting1'
+[2018.12.08-19.06.32:059][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Hands/BackResting1'
+[2018.12.08-19.06.32:059][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Feet/FrontFoot1'
+[2018.12.08-19.06.32:060][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Feet/FrontFoot1'
+[2018.12.08-19.06.32:060][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Feet/BackFoot1'
+[2018.12.08-19.06.32:060][  0]LogLinker: Can't find file '/Game/Characters/Sprites/Feet/BackFoot1'
+[2018.12.08-19.06.48:033][  0]LogAIModule: Creating AISystem for world House
+[2018.12.08-19.06.48:125][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.08-19.06.48:152][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.08-19.06.48:249][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97.367ms to complete.
+[2018.12.08-19.06.48:250][  0]LogFileHelpers: Loading map 'House' took 17.281
+[2018.12.08-19.06.48:612][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-19.06.48:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-19.06.48:631][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-19.06.48:641][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-19.06.48:712][  0]LogCollectionManager: Loaded 0 collections in 0.001845 seconds
+[2018.12.08-19.06.48:791][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/GTRP/Saved/Collections/' took 0.01s
+[2018.12.08-19.06.48:791][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/GTRP/Content/Developers/James/Collections/' took 0.01s
+[2018.12.08-19.06.48:792][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/GTRP/Content/Collections/' took 0.01s
+[2018.12.08-19.06.48:792][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.08-19.06.48:802][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2613 classes and 621 folders.
+[2018.12.08-19.06.48:826][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.08-19.06.51:093][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.08-19.06.51:138][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2018.12.08-19.06.51:171][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.08-19.06.51:822][  0]LogSlate: Took 0.053121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.08-19.06.51:840][  0]LogSlate: Took 0.017913 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.08-19.06.51:861][  0]LogSlate: Took 0.016408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.08-19.06.52:262][  0]LogRenderer: Reallocating scene render targets to support 1028x580 Format 10 NumSamples 1 (Frame:1).
+[2018.12.08-19.06.52:632][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.08-19.06.52:632][  0]LogLoad: (Engine Initialization) Total time: 129.81 seconds
+[2018.12.08-19.06.52:632][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.08-19.06.52:646][  0]LogOcInput: OculusInput is initialized
+[2018.12.08-19.06.52:713][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.08-19.06.52:827][  0]LogSlate: Took 0.037360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.08-19.06.52:984][  2]LogAssetRegistry: Asset discovery search completed in 78.4103 seconds
+[2018.12.08-19.06.53:011][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.08-19.06.53:011][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000089 seconds (updated 0 objects)
+[2018.12.08-19.06.53:799][ 73]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.08-19.09.10:665][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-19.09.10:853][772]LogAssetEditorManager: Opening Asset editor for DataTable /Game/CharacterAssets/Sprites/Hands/HAndTable.HandTable
+[2018.12.08-19.09.13:450][772]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget
+[2018.12.08-19.09.14:545][772]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.12.08-19.09.16:614][772]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/CharacterAssets/Sprites/Arms/LowerArm2.LowerArm2
+[2018.12.08-19.09.16:829][772]LogSlate: Took 0.043623 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.08-19.09.20:712][969]LogRenderer: Reallocating scene render targets to support 1528x920 Format 10 NumSamples 1 (Frame:1).
+[2018.12.08-19.09.29:033][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-19.10.50:399][889]LogSlate: Took 0.084525 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.12.08-19.11.36:677][498]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.08-19.12.39:320][525]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.VerticalBox_22 or VerticalBox /Engine/Transient.World_1:MainMenuWidget_C_3.WidgetTree_0.VerticalBox_22
+[2018.12.08-19.12.39:320][525]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.VerticalBox_22 or VerticalBox /Engine/Transient.World_1:MainMenuWidget_C_4.WidgetTree_0.VerticalBox_22
+[2018.12.08-19.12.39:320][525]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.VerticalBox_22 or VerticalBox /Engine/Transient.World_1:MainMenuWidget_C_5.WidgetTree_0.VerticalBox_22
+[2018.12.08-19.12.39:320][525]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.VerticalBox_22 or VerticalBox /Engine/Transient.World_1:MainMenuWidget_C_6.WidgetTree_0.VerticalBox_22
+[2018.12.08-19.12.39:329][525]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.VerticalBox_22.VerticalBoxSlot_0) from referencer (HorizontalBox /Engine/UMG/Editor/Transient.HorizontalBox_7).  Import failed...
+[2018.12.08-19.12.39:330][525]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_22.VerticalBoxSlot_0"''
+[2018.12.08-19.13.23:391][152]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-19.13.24:938][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-19.13.30:404][152]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget0CFFF6284BB97C6E4A0AA1973E786913.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-19.13.37:809][629]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/CharacterAssets/CharacterStruct.CharacterStruct
+[2018.12.08-19.13.56:797][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterAssets/CharacterStruct" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/CharacterStruct.uasset" SILENT=true
+[2018.12.08-19.13.56:869][233]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterStruct74311D1C4D7FB4DD2636509209BCA6B8.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/CharacterStruct.uasset'
+[2018.12.08-19.13.58:559][344]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-19.14.00:709][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-19.14.01:230][373]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget0D98C44B4EB7EFD99E2BAFB2937ECBAB.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-19.14.33:561][529]LogSlate: Took 0.020290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.08-19.14.39:473][ 27]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-19.14.41:328][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-19.14.41:863][ 69]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidgetCF3AD16245ACD1C917CCC297F379DB16.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-19.14.53:270][251]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Menus/Blueprints/CustomisableCharacter.CustomisableCharacter
+[2018.12.08-19.15.24:243][630]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-19.15.31:619][139]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-19.15.32:897][170]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacter023514A74E4654A44B165BB2BAC46BC2.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Blueprints/CustomisableCharacter.uasset'
+[2018.12.08-19.15.43:091][994]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacter18FF30964AA07BC9621585A43F3767DD.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Blueprints/CustomisableCharacter.uasset'
+[2018.12.08-19.15.43:382][ 20]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-19.15.47:955][322]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacter9C0DA834445B25C3871E0998D35E80E0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Blueprints/CustomisableCharacter.uasset'
+[2018.12.08-19.15.48:243][346]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-19.15.58:444][173]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-19.15.59:686][210]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacter265268BC4682DFF8ADCA0896BEE81451.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Blueprints/CustomisableCharacter.uasset'
+[2018.12.08-19.16.32:042][ 17]LogSlate: Took 0.025993 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.08-19.16.53:379][828]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-19.16.54:400][831]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacterD45AF4B74F042E8340BA78B860017C12.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Blueprints/CustomisableCharacter.uasset'
+[2018.12.08-19.17.12:620][337]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacter3AB7F2F341DEAC7F934B168AC8FE301C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Blueprints/CustomisableCharacter.uasset'
+[2018.12.08-19.17.12:946][365]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-19.17.17:567][677]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacter06BED33F46C154D12187238E8734D203.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Blueprints/CustomisableCharacter.uasset'
+[2018.12.08-19.17.36:872][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-19.17.37:409][195]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidgetF93521F045EE6DB5FF409EAAC461E569.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-19.17.37:668][215]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-19.18.20:778][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-19.18.21:313][111]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget5D61DB9A44C62C15E9B5839FD90FEEDD.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-19.18.21:738][143]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-19.18.52:795][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-19.18.53:353][602]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidgetFF846CE9488CE3B0291C858BE678B1CF.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-19.18.53:740][635]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-19.19.20:351][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-19.19.20:904][418]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget562DCA3049DD544C5B45358DD6F9E225.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-19.25.07:622][856]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacter2CF7C0FC4ACD29A43C4FF78E46D0E8A7.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Blueprints/CustomisableCharacter.uasset'
+[2018.12.08-19.25.07:966][879]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-19.26.46:400][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-19.26.46:970][455]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget64FF217D4D85C84806F4A7A166F60B68.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-19.26.48:181][588]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-19.26.54:298][ 54]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.08-19.26.54:305][ 54]LogAssetEditorManager: Opening Asset editor for World /Game/Menus/Maps/MainMenu.MainMenu
+[2018.12.08-19.26.55:657][ 54]LogSlate: Window 'Save Content' being destroyed
+[2018.12.08-19.26.56:109][ 54]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/2DSideScrollerCharacter8C1809094F3BD9CD6D7A3E97926DCEF1.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.12.08-19.26.56:112][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterBP/Blueprints/GTController" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterBP/Blueprints/GTController.uasset" SILENT=true
+[2018.12.08-19.26.56:215][ 54]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/GTController3775BF704A7BE420A829E48D55CBE28C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterBP/Blueprints/GTController.uasset'
+[2018.12.08-19.26.56:217][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameData/GTGameInstance" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/GameData/GTGameInstance.uasset" SILENT=true
+[2018.12.08-19.26.56:290][ 54]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/GTGameInstance64197B96450A336F988730BC1BFF4D31.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/GameData/GTGameInstance.uasset'
+[2018.12.08-19.26.56:294][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameData/SaveData/CharacterData" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/GameData/SaveData/CharacterData.uasset" SILENT=true
+[2018.12.08-19.26.56:350][ 54]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterData9646F30244DAA7098BC47B949013FBE1.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/GameData/SaveData/CharacterData.uasset'
+[2018.12.08-19.26.56:353][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/CharacterButton" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CharacterButton.uasset" SILENT=true
+[2018.12.08-19.26.56:430][ 54]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterButton7632A7124F94B43044594D8FDF8C7B19.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CharacterButton.uasset'
+[2018.12.08-19.26.56:433][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/CustomisationButton" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset" SILENT=true
+[2018.12.08-19.26.56:738][ 54]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisationButtonFD91477F422CC1FFF9835DB1D70FADFB.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset'
+[2018.12.08-19.26.56:742][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ControlPanel" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/ControlPanel.uasset" SILENT=true
+[2018.12.08-19.26.56:934][ 54]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/ControlPanelE454E3A94FBA0F71BB02929843F62F41.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/ControlPanel.uasset'
+[2018.12.08-19.26.56:937][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu/CharacterListing" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/Menu/CharacterListing.uasset" SILENT=true
+[2018.12.08-19.26.57:089][ 54]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterListing743ACCCA46C236218A3CA292C7E08CA9.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/Menu/CharacterListing.uasset'
+[2018.12.08-19.26.57:092][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu/Menu" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/Menu/Menu.uasset" SILENT=true
+[2018.12.08-19.26.57:181][ 54]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Menu909E293840E77453844B589E9FB206B5.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/Menu/Menu.uasset'
+[2018.12.08-19.26.57:189][ 54]Cmd: MAP LOAD FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.08-19.26.57:189][ 54]LightingResults: New page: Lighting Build
+[2018.12.08-19.26.57:211][ 54]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.12.08-19.26.57:255][ 54]MapCheck: New page: Map Check
+[2018.12.08-19.26.57:255][ 54]LightingResults: New page: Lighting Build
+[2018.12.08-19.26.57:558][ 54]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.08-19.26.57:640][ 54]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.08-19.26.57:782][ 54]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 142.665ms to complete.
+[2018.12.08-19.26.57:782][ 54]LogFileHelpers: Loading map 'MainMenu' took 0.597
+[2018.12.08-19.26.58:295][ 97]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.08-19.26.58:434][ 97]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.08-19.26.58:463][ 97]LogPlayLevel: [PlayLevel] Compiling ObjectBase before play...
+[2018.12.08-19.26.58:470][ 97]LogPlayLevel: [PlayLevel]   Compiling OutOfCharacterPawn as a dependent...
+[2018.12.08-19.26.58:481][ 97]LogPlayLevel: [PlayLevel]   Compiling 2DSideScrollerGameMode as a dependent...
+[2018.12.08-19.26.58:488][ 97]LogPlayLevel: [PlayLevel]   Compiling CharacterListing as a dependent...
+[2018.12.08-19.26.58:512][ 97]LogPlayLevel: [PlayLevel]   Compiling ChatWindow as a dependent...
+[2018.12.08-19.26.58:524][ 97]LogPlayLevel: [PlayLevel]   Compiling ControlPanel as a dependent...
+[2018.12.08-19.26.58:612][ 97]LogPlayLevel: [PlayLevel]   Compiling GTController as a dependent...
+[2018.12.08-19.26.58:628][ 97]LogPlayLevel: [PlayLevel]   Compiling Menu as a dependent...
+[2018.12.08-19.26.58:648][ 97]LogPlayLevel: [PlayLevel]   Compiling 2DSideScrollerCharacter as a dependent...
+[2018.12.08-19.26.59:162][ 97]LogPlayLevel: [PlayLevel] Compiling CharacterData before play...
+[2018.12.08-19.26.59:186][ 97]LogPlayLevel: [PlayLevel] Compiling GTGameInstance before play...
+[2018.12.08-19.26.59:327][ 97]LogPlayLevel: PlayLevel: Blueprint regeneration took 893 ms (11 blueprints)
+[2018.12.08-19.26.59:353][ 97]LogHMD: Initializing OVRPlugin session
+[2018.12.08-19.27.00:453][ 97]LogOnline: Warning: STEAM: Steam API disabled!
+[2018.12.08-19.27.00:453][ 97]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.12.08-19.27.00:494][ 97]PIE: New page: PIE session: MainMenu (8 Dec 2018 19:27:00)
+[2018.12.08-19.27.00:498][ 97]LogPlayLevel: Creating play world package: /Game/Menus/Maps/UEDPIE_0_MainMenu
+[2018.12.08-19.27.00:557][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059297s)
+[2018.12.08-19.27.00:558][ 97]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.08-19.27.00:611][ 97]LogPlayLevel: PIE: World Init took: (0.053067s)
+[2018.12.08-19.27.00:611][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menus/Maps/MainMenu.MainMenu to /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu (0.112614s)
+[2018.12.08-19.27.00:660][ 97]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.08-19.27.00:671][ 97]LogInit: FAudioDevice initialized.
+[2018.12.08-19.27.00:782][ 97]LogLoad: Game class is 'MenuGameMode_C'
+[2018.12.08-19.27.00:815][ 97]LogWorld: Bringing World /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.08-19.27.00
+[2018.12.08-19.27.00:970][ 97]LogWorld: Bringing up level for play took: 0.170027
+[2018.12.08-19.27.01:106][ 97]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.12.08-19.27.01:318][ 97]PIE: Play in editor start time for /Game/Menus/Maps/UEDPIE_0_MainMenu 3.14
+[2018.12.08-19.27.04:149][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-19.27.04:219][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-19.27.04:249][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-19.27.04:294][404]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.12.08-19.27.08:057][845]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/Widgets/CustomisationButton.CustomisationButton
+[2018.12.08-19.34.57:920][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/CustomisationButton" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset" SILENT=true
+[2018.12.08-19.34.58:209][982]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisationButtonC9339F4E457DA8B77157D7A356506C76.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset'
+[2018.12.08-19.34.58:988][ 25]BlueprintLog: New page: Compile CustomisationButton
+[2018.12.08-19.35.01:363][162]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.08-19.35.01:396][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-19.35.01:396][162]LogHMD: Initializing OVRPlugin session
+[2018.12.08-19.35.01:436][162]PIE: New page: PIE session: MainMenu (8 Dec 2018 19:35:01)
+[2018.12.08-19.35.01:437][162]LogPlayLevel: Creating play world package: /Game/Menus/Maps/UEDPIE_0_MainMenu
+[2018.12.08-19.35.01:438][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001579s)
+[2018.12.08-19.35.01:439][162]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.08-19.35.01:439][162]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2018.12.08-19.35.01:439][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menus/Maps/MainMenu.MainMenu to /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu (0.002601s)
+[2018.12.08-19.35.01:491][162]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.08-19.35.01:503][162]LogInit: FAudioDevice initialized.
+[2018.12.08-19.35.01:537][162]LogLoad: Game class is 'MenuGameMode_C'
+[2018.12.08-19.35.01:539][162]LogWorld: Bringing World /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.08-19.35.01
+[2018.12.08-19.35.01:539][162]LogWorld: Bringing up level for play took: 0.000903
+[2018.12.08-19.35.01:574][162]PIE: Play in editor start time for /Game/Menus/Maps/UEDPIE_0_MainMenu -0.604
+[2018.12.08-19.35.32:503][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-19.35.34:860][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-19.35.34:903][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-19.35.34:938][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-19.35.34:963][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.12.08-19.35.49:984][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-19.35.50:531][888]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget902BB8544EB14F2F59AA97B8B330A3D6.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-19.35.50:959][904]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-19.36.01:083][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-19.36.01:620][228]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidgetB946345E4C1BB39DEAA301A1F656DDCD.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-19.36.09:021][621]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.08-19.36.09:073][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-19.36.09:073][621]LogHMD: Initializing OVRPlugin session
+[2018.12.08-19.36.09:111][621]PIE: New page: PIE session: MainMenu (8 Dec 2018 19:36:09)
+[2018.12.08-19.36.09:111][621]LogPlayLevel: Creating play world package: /Game/Menus/Maps/UEDPIE_0_MainMenu
+[2018.12.08-19.36.09:113][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001898s)
+[2018.12.08-19.36.09:114][621]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.08-19.36.09:114][621]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2018.12.08-19.36.09:114][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menus/Maps/MainMenu.MainMenu to /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu (0.002880s)
+[2018.12.08-19.36.09:168][621]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.08-19.36.09:178][621]LogInit: FAudioDevice initialized.
+[2018.12.08-19.36.09:208][621]LogLoad: Game class is 'MenuGameMode_C'
+[2018.12.08-19.36.09:209][621]LogWorld: Bringing World /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.08-19.36.09
+[2018.12.08-19.36.09:210][621]LogWorld: Bringing up level for play took: 0.000669
+[2018.12.08-19.36.09:243][621]PIE: Play in editor start time for /Game/Menus/Maps/UEDPIE_0_MainMenu 1.065
+[2018.12.08-19.36.24:809][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-19.36.24:862][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-19.36.24:895][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-19.36.24:926][825]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.12.08-19.36.33:468][442]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Menus/Widgets/CustomisationStruct.CustomisationStruct
+[2018.12.08-19.36.38:507][861]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/CharacterAssets/CharacterStruct.CharacterStruct
+[2018.12.08-19.37.04:647][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-19.37.05:248][279]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget28D6179245132132212B3EB4654D33D9.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-19.37.05:456][300]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-19.37.06:760][332]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.08-19.37.06:794][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-19.37.06:794][332]LogHMD: Initializing OVRPlugin session
+[2018.12.08-19.37.06:833][332]PIE: New page: PIE session: MainMenu (8 Dec 2018 19:37:06)
+[2018.12.08-19.37.06:833][332]LogPlayLevel: Creating play world package: /Game/Menus/Maps/UEDPIE_0_MainMenu
+[2018.12.08-19.37.06:835][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001576s)
+[2018.12.08-19.37.06:836][332]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.08-19.37.06:836][332]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2018.12.08-19.37.06:836][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menus/Maps/MainMenu.MainMenu to /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu (0.002505s)
+[2018.12.08-19.37.06:898][332]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.08-19.37.06:911][332]LogInit: FAudioDevice initialized.
+[2018.12.08-19.37.06:941][332]LogLoad: Game class is 'MenuGameMode_C'
+[2018.12.08-19.37.06:942][332]LogWorld: Bringing World /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.08-19.37.06
+[2018.12.08-19.37.06:943][332]LogWorld: Bringing up level for play took: 0.000704
+[2018.12.08-19.37.06:976][332]PIE: Play in editor start time for /Game/Menus/Maps/UEDPIE_0_MainMenu 0.799
+[2018.12.08-19.37.48:248][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-19.37.48:295][936]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-19.37.48:329][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-19.37.48:352][937]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.12.08-19.37.51:145][188]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/Widgets/ColourButton.ColourButton
+[2018.12.08-19.38.58:589][707]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-19.38.59:900][777]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.08-19.38.59:956][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-19.38.59:956][777]LogHMD: Initializing OVRPlugin session
+[2018.12.08-19.38.59:996][777]PIE: New page: PIE session: MainMenu (8 Dec 2018 19:38:59)
+[2018.12.08-19.38.59:996][777]LogPlayLevel: Creating play world package: /Game/Menus/Maps/UEDPIE_0_MainMenu
+[2018.12.08-19.38.59:999][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002185s)
+[2018.12.08-19.38.59:999][777]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.08-19.38.59:999][777]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2018.12.08-19.39.00:000][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menus/Maps/MainMenu.MainMenu to /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu (0.003159s)
+[2018.12.08-19.39.00:061][777]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.08-19.39.00:073][777]LogInit: FAudioDevice initialized.
+[2018.12.08-19.39.00:105][777]LogLoad: Game class is 'MenuGameMode_C'
+[2018.12.08-19.39.00:106][777]LogWorld: Bringing World /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.08-19.39.00
+[2018.12.08-19.39.00:107][777]LogWorld: Bringing up level for play took: 0.000780
+[2018.12.08-19.39.00:141][777]PIE: Play in editor start time for /Game/Menus/Maps/UEDPIE_0_MainMenu -0.037
+[2018.12.08-19.40.15:831][ 22]LogBlueprintUserMessages: [GTGameInstance_C_4] 2 characters saved
+[2018.12.08-19.40.18:188][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-19.40.18:243][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-19.40.18:280][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-19.40.18:329][231]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.12.08-19.40.20:725][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Maps/MainMenu" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.08-19.40.20:839][449]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuAEB613B249F6668FEFE97C8C6E4C8131.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Maps/MainMenu.umap'
+[2018.12.08-19.40.20:894][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Maps/MainMenu_BuiltData" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Maps/MainMenu_BuiltData.uasset" SILENT=true
+[2018.12.08-19.40.21:081][449]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenu_BuiltData8F592A934EB5228293B6218E80A1FE3C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Maps/MainMenu_BuiltData.uasset'
+[2018.12.08-19.40.26:388][906]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacter741A26374091374DDC86448AF42D14E4.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Blueprints/CustomisableCharacter.uasset'
+[2018.12.08-19.42.46:563][525]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.08-20.01.05:193][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.01.13:178][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.01.13:341][403]AssetReimport: New page: Outstanding source content changes 20:01:13
+[2018.12.08-20.01.13:420][404]LogEditorFactories: Performing atomic reimport of [C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Arms.png]
+[2018.12.08-20.01.13:421][404]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Arms.png)
+[2018.12.08-20.01.14:542][404]LogEditorFactories: -- imported successfully
+[2018.12.08-20.01.14:617][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterAssets/Textures/Arms" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Arms.uasset" SILENT=true
+[2018.12.08-20.01.14:995][405]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Arms9D363914459CE8870897FCB8C0728D57.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Arms.uasset'
+[2018.12.08-20.01.15:557][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.01.18:010][750]AssetReimport: Reimported asset Arms from C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Arms.png.
+[2018.12.08-20.01.19:171][887]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/CharacterAssets/Sprites/Arms/LowerArm3.LowerArm3
+[2018.12.08-20.01.26:997][557]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/LowerArm3666ED93045C4CB0E9AB09DAD5CC4FDFE.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Arms/LowerArm3.uasset'
+[2018.12.08-20.01.28:845][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.01.28:956][738]LogSlate: Window 'LowerArm3' being destroyed
+[2018.12.08-20.01.28:961][738]LogSlate: Window 'LowerArm3' being destroyed
+[2018.12.08-20.01.30:039][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.01.30:163][819]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/CharacterAssets/Sprites/Arms/UpperArm3.UpperArm3
+[2018.12.08-20.01.36:687][460]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/UpperArm32AA7C11F476B8BCC973543B3AADCCD85.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Arms/UpperArm3.uasset'
+[2018.12.08-20.02.09:553][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.02.09:721][138]AssetReimport: New page: Outstanding source content changes 20:02:09
+[2018.12.08-20.02.09:722][138]LogEditorFactories: Performing atomic reimport of [C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Arms.png]
+[2018.12.08-20.02.09:722][138]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Arms.png)
+[2018.12.08-20.02.10:724][138]LogEditorFactories: -- imported successfully
+[2018.12.08-20.02.10:779][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterAssets/Textures/Arms" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Arms.uasset" SILENT=true
+[2018.12.08-20.02.11:185][139]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Arms92EBE7094054B6B786CB9F8009462403.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Arms.uasset'
+[2018.12.08-20.02.14:198][458]AssetReimport: Reimported asset Arms from C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Arms.png.
+[2018.12.08-20.02.16:195][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.02.18:061][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.02.18:145][902]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.08-20.02.18:172][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-20.02.18:172][902]LogHMD: Initializing OVRPlugin session
+[2018.12.08-20.02.18:209][902]PIE: New page: PIE session: MainMenu (8 Dec 2018 20:02:18)
+[2018.12.08-20.02.18:209][902]LogPlayLevel: Creating play world package: /Game/Menus/Maps/UEDPIE_0_MainMenu
+[2018.12.08-20.02.18:211][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001568s)
+[2018.12.08-20.02.18:211][902]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.08-20.02.18:211][902]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2018.12.08-20.02.18:211][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menus/Maps/MainMenu.MainMenu to /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu (0.002328s)
+[2018.12.08-20.02.18:272][902]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.08-20.02.18:283][902]LogInit: FAudioDevice initialized.
+[2018.12.08-20.02.18:318][902]LogLoad: Game class is 'MenuGameMode_C'
+[2018.12.08-20.02.18:319][902]LogWorld: Bringing World /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.08-20.02.18
+[2018.12.08-20.02.18:320][902]LogWorld: Bringing up level for play took: 0.000743
+[2018.12.08-20.02.18:360][902]PIE: Play in editor start time for /Game/Menus/Maps/UEDPIE_0_MainMenu 0.183
+[2018.12.08-20.02.29:163][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-20.02.29:197][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-20.02.29:225][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-20.02.29:260][178]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.08-20.02.35:082][447]LogSlate: Window 'Save Asset As' being destroyed
+[2018.12.08-20.02.36:139][557]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.08-20.02.37:716][734]LogSlate: Window 'UpperArm3' being destroyed
+[2018.12.08-20.02.39:552][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.02.41:244][143]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget
+[2018.12.08-20.03.16:426][845]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Menus/Maps/MainMenu' took 0.032
+[2018.12.08-20.03.16:573][845]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menus/Widgets/MainMenuWidget] ([1] browsable assets)...
+[2018.12.08-20.03.16:573][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/Widgets/MainMenuWidget]
+[2018.12.08-20.03.17:114][845]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget_Auto117A7F56B492BB7549DE808AE6588B524.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/Menus/Widgets/MainMenuWidget_Auto1.uasset'
+[2018.12.08-20.03.17:141][845]LogFileHelpers: Auto-saving content packages took 0.714
+[2018.12.08-20.03.18:514][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.04.17:286][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-20.04.17:838][376]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget726D5D6E48E4915AB14B5EB642CD4991.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-20.04.18:235][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.04.18:274][409]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-20.04.22:402][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.04.22:494][699]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.08-20.04.22:523][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-20.04.22:523][699]LogHMD: Initializing OVRPlugin session
+[2018.12.08-20.04.22:563][699]PIE: New page: PIE session: MainMenu (8 Dec 2018 20:04:22)
+[2018.12.08-20.04.22:563][699]LogPlayLevel: Creating play world package: /Game/Menus/Maps/UEDPIE_0_MainMenu
+[2018.12.08-20.04.22:565][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001941s)
+[2018.12.08-20.04.22:566][699]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.08-20.04.22:566][699]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2018.12.08-20.04.22:566][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menus/Maps/MainMenu.MainMenu to /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu (0.003009s)
+[2018.12.08-20.04.22:616][699]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.08-20.04.22:627][699]LogInit: FAudioDevice initialized.
+[2018.12.08-20.04.22:664][699]LogLoad: Game class is 'MenuGameMode_C'
+[2018.12.08-20.04.22:665][699]LogWorld: Bringing World /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.08-20.04.22
+[2018.12.08-20.04.22:666][699]LogWorld: Bringing up level for play took: 0.000807
+[2018.12.08-20.04.22:702][699]PIE: Play in editor start time for /Game/Menus/Maps/UEDPIE_0_MainMenu 0.524
+[2018.12.08-20.05.15:125][930]LogBlueprintUserMessages: [GTGameInstance_C_6] 2 characters saved
+[2018.12.08-20.05.17:592][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-20.05.17:625][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-20.05.17:655][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-20.05.17:693][227]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.08-20.05.23:744][805]LogSlate: Window 'MainMenuWidget' being destroyed
+[2018.12.08-20.06.35:871][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.06.35:972][263]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.08-20.06.36:006][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-20.06.36:006][263]LogHMD: Initializing OVRPlugin session
+[2018.12.08-20.06.36:044][263]PIE: New page: PIE session: MainMenu (8 Dec 2018 20:06:36)
+[2018.12.08-20.06.36:044][263]LogPlayLevel: Creating play world package: /Game/Menus/Maps/UEDPIE_0_MainMenu
+[2018.12.08-20.06.36:046][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001586s)
+[2018.12.08-20.06.36:046][263]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.08-20.06.36:047][263]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2018.12.08-20.06.36:047][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menus/Maps/MainMenu.MainMenu to /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu (0.002633s)
+[2018.12.08-20.06.36:094][263]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.08-20.06.36:106][263]LogInit: FAudioDevice initialized.
+[2018.12.08-20.06.36:140][263]LogLoad: Game class is 'MenuGameMode_C'
+[2018.12.08-20.06.36:141][263]LogWorld: Bringing World /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.08-20.06.36
+[2018.12.08-20.06.36:142][263]LogWorld: Bringing up level for play took: 0.000789
+[2018.12.08-20.06.36:176][263]PIE: Play in editor start time for /Game/Menus/Maps/UEDPIE_0_MainMenu -0.002
+[2018.12.08-20.10.22:259][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-20.10.22:293][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-20.10.22:325][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-20.10.22:349][361]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.12.08-20.10.34:381][703]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/Widgets/CustomisationButton.CustomisationButton
+[2018.12.08-20.10.39:736][897]LogSlate: Window 'CustomisationButton' being destroyed
+[2018.12.08-20.10.39:742][897]LogSlate: Window 'CustomisationButton' being destroyed
+[2018.12.08-20.10.44:637][471]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget
+[2018.12.08-20.12.09:011][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-20.12.09:579][582]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidgetE886402E42148F9888CF3EA3C72B4339.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-20.12.09:878][612]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-20.13.04:385][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-20.13.04:966][759]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidgetA0E4B4004A6A6F5A2E7B2481E0184977.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-20.13.05:204][781]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-20.13.10:425][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-20.13.11:017][908]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidgetF88B5237425A03059F885FAD9826B644.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-20.13.12:264][  6]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.08-20.13.12:314][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-20.13.12:314][  6]LogHMD: Initializing OVRPlugin session
+[2018.12.08-20.13.12:355][  6]PIE: New page: PIE session: MainMenu (8 Dec 2018 20:13:12)
+[2018.12.08-20.13.12:355][  6]LogPlayLevel: Creating play world package: /Game/Menus/Maps/UEDPIE_0_MainMenu
+[2018.12.08-20.13.12:357][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002014s)
+[2018.12.08-20.13.12:358][  6]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.08-20.13.12:358][  6]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2018.12.08-20.13.12:358][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menus/Maps/MainMenu.MainMenu to /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu (0.003069s)
+[2018.12.08-20.13.12:414][  6]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.08-20.13.12:427][  6]LogInit: FAudioDevice initialized.
+[2018.12.08-20.13.12:458][  6]LogLoad: Game class is 'MenuGameMode_C'
+[2018.12.08-20.13.12:459][  6]LogWorld: Bringing World /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.08-20.13.12
+[2018.12.08-20.13.12:460][  6]LogWorld: Bringing up level for play took: 0.000921
+[2018.12.08-20.13.12:496][  6]PIE: Play in editor start time for /Game/Menus/Maps/UEDPIE_0_MainMenu 0.318
+[2018.12.08-20.14.14:959][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.14.15:117][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-20.14.15:152][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-20.14.15:189][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-20.14.15:215][461]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.12.08-20.40.41:823][451]AssetReimport: New page: Outstanding source content changes 20:40:41
+[2018.12.08-20.40.41:823][451]LogEditorFactories: Performing atomic reimport of [C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Hair_Fringes.png]
+[2018.12.08-20.40.41:824][451]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Hair_Fringes.png)
+[2018.12.08-20.40.42:539][451]LogEditorFactories: -- imported successfully
+[2018.12.08-20.40.42:995][452]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Hair_Fringes3656E4034C9D9F4E0CE0E38379CE56FA.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Hair_Fringes.uasset'
+[2018.12.08-20.40.46:007][790]AssetReimport: Reimported asset Hair_Fringes from C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Hair_Fringes.png.
+[2018.12.08-20.40.47:769][981]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/CharacterAssets/Sprites/Hair_Fringes/Hair_Fringe5.Hair_Fringe5
+[2018.12.08-20.41.02:273][388]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Hair_Fringe5572B3FCF4CA9ADE96FC8E789C4CEB9BB.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Hair_Fringes/Hair_Fringe5.uasset'
+[2018.12.08-20.41.54:337][689]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-20.41.56:226][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-20.41.56:966][726]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget478471BF4D168ABD7C454698600F39B8.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-20.41.58:330][867]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.08-20.41.58:366][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-20.41.58:366][867]LogHMD: Initializing OVRPlugin session
+[2018.12.08-20.41.58:406][867]PIE: New page: PIE session: MainMenu (8 Dec 2018 20:41:58)
+[2018.12.08-20.41.58:407][867]LogPlayLevel: Creating play world package: /Game/Menus/Maps/UEDPIE_0_MainMenu
+[2018.12.08-20.41.58:409][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001522s)
+[2018.12.08-20.41.58:409][867]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.08-20.41.58:409][867]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2018.12.08-20.41.58:409][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menus/Maps/MainMenu.MainMenu to /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu (0.002273s)
+[2018.12.08-20.41.58:465][867]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.08-20.41.58:476][867]LogInit: FAudioDevice initialized.
+[2018.12.08-20.41.58:505][867]LogLoad: Game class is 'MenuGameMode_C'
+[2018.12.08-20.41.58:506][867]LogWorld: Bringing World /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.08-20.41.58
+[2018.12.08-20.41.58:507][867]LogWorld: Bringing up level for play took: 0.000733
+[2018.12.08-20.41.58:544][867]PIE: Play in editor start time for /Game/Menus/Maps/UEDPIE_0_MainMenu 0.365
+[2018.12.08-20.42.35:618][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-20.42.35:655][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-20.42.35:686][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-20.42.35:730][288]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_17.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.REINST_MainMenuWidget_C_356:WidgetTree.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_20.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.REINST_MainMenuWidget_C_374:WidgetTree.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_14.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_12.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget_C:WidgetTree.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_25.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.REINST_MainMenuWidget_C_384:WidgetTree.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_4.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_12:MainMenuWidget_C_1.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_13.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.REINST_MainMenuWidget_C_341:WidgetTree.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_11.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_3.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_9.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_10.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_5.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_15.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_26.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.42.50:174][891]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_2.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.42.50:175][891]LogProperty: Warning: Illegal TEXT reference to a private object in external package (UniformGridSlot /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1.UniformGridSlot_14) from referencer (Button /Engine/UMG/Editor/Transient.HairButton).  Import failed...
+[2018.12.08-20.42.50:175][891]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'UniformGridSlot'"UniformGridPanel_1.UniformGridSlot_14"''
+[2018.12.08-20.43.45:326][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_28.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:326][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_17.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:326][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.REINST_MainMenuWidget_C_356:WidgetTree.UniformGridPanel_1
+[2018.12.08-20.43.45:326][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_20.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:326][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.REINST_MainMenuWidget_C_374:WidgetTree.UniformGridPanel_1
+[2018.12.08-20.43.45:326][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_27.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:326][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_14.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:327][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_12.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:327][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget_C:WidgetTree.UniformGridPanel_1
+[2018.12.08-20.43.45:327][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_25.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:327][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.REINST_MainMenuWidget_C_384:WidgetTree.UniformGridPanel_1
+[2018.12.08-20.43.45:327][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_4.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:327][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_12:MainMenuWidget_C_1.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:327][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_13.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:327][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.REINST_MainMenuWidget_C_341:WidgetTree.UniformGridPanel_1
+[2018.12.08-20.43.45:327][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_11.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:327][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_3.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:327][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_9.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:327][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_10.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:327][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_5.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:327][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_15.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:327][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_26.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:327][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_29.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:327][886]LogUObjectHash: Warning: Ambiguous search, could be UniformGridPanel /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1 or UniformGridPanel /Engine/Transient.World_16:MainMenuWidget_C_2.WidgetTree_0.UniformGridPanel_1
+[2018.12.08-20.43.45:328][886]LogProperty: Warning: Illegal TEXT reference to a private object in external package (UniformGridSlot /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget:WidgetTree.UniformGridPanel_1.UniformGridSlot_15) from referencer (Button /Engine/UMG/Editor/Transient.EyeButton).  Import failed...
+[2018.12.08-20.43.45:328][886]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'UniformGridSlot'"UniformGridPanel_1.UniformGridSlot_15"''
+[2018.12.08-20.45.03:744][904]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Menus/Widgets/BodyPartENUM.BodyPartENUM
+[2018.12.08-20.45.33:443][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/BodyPartENUM" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/BodyPartENUM.uasset" SILENT=true
+[2018.12.08-20.45.33:510][797]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/BodyPartENUM3ECBD43641DCED4293F788857B213B03.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/BodyPartENUM.uasset'
+[2018.12.08-20.45.36:408][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-20.45.36:957][ 25]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget1508D741435A0EFCF34F30A84704A70E.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-20.45.45:886][681]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-20.45.48:710][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-20.45.49:280][718]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget8D427D2647AFC89C09A2B3827665DD3D.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-20.46.21:569][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-20.46.22:126][558]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget9C86CD5648FC41291291049B2DF79D8E.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-20.46.22:465][591]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-20.46.57:536][  1]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-20.47.52:882][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-20.47.53:469][291]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidgetD9E32D3F449718B7E23D428E3290801E.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-20.47.53:791][318]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-20.48.22:782][584]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Menus/Maps/MainMenu' took 0.052
+[2018.12.08-20.48.22:783][584]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menus/Widgets/CustomisationButton] ([1] browsable assets)...
+[2018.12.08-20.48.22:783][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/Widgets/CustomisationButton]
+[2018.12.08-20.48.23:095][584]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisationButton_Auto2444CB85B428AC020DB64D181DF3D48A0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/Menus/Widgets/CustomisationButton_Auto2.uasset'
+[2018.12.08-20.48.23:097][584]LogFileHelpers: Auto-saving content packages took 0.314
+[2018.12.08-20.51.14:194][554]AssetReimport: New page: Outstanding source content changes 20:51:14
+[2018.12.08-20.51.14:195][554]LogEditorFactories: Performing atomic reimport of [C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Extras.png]
+[2018.12.08-20.51.14:195][554]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Extras.png)
+[2018.12.08-20.51.14:818][554]LogEditorFactories: -- imported successfully
+[2018.12.08-20.51.14:869][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterAssets/Textures/Extras" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Extras.uasset" SILENT=true
+[2018.12.08-20.51.15:299][555]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/ExtrasFD1970554DA1DCC0327825B323F175DB.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Extras.uasset'
+[2018.12.08-20.51.18:310][914]AssetReimport: Reimported asset Extras from C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Extras.png.
+[2018.12.08-20.51.19:365][ 39]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/CharacterAssets/Sprites/Extras/Glasses1.Glasses1
+[2018.12.08-20.51.24:189][493]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Glasses1A62B88904A2FB8769DF477828D61B478.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Extras/Glasses1.uasset'
+[2018.12.08-20.51.35:216][773]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Menus/Blueprints/CustomisableCharacter.CustomisableCharacter
+[2018.12.08-20.51.43:921][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.08-20.51.47:950][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.51.57:309][499]LogEditorTransaction: Undo Modify Component(s)
+[2018.12.08-20.51.57:838][499]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.449 s
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: 
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2103]
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: 
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: Stack: 
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbd2d671f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbd2aa0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbd2abb356 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbac1bf1e8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbb8524c25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbb85501fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbb8536535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbb85a2dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbb85e9b6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbb857c81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbbed705b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbd75824df UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbd75c437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbb8bb5178 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbd75470ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbd75c606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbd75b9846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d2ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d20270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d2f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d1c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffc05586d41 USER32.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffc05586713 USER32.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d30646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ff7eddb54e5 UE4Editor.exe!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ff7eddc5b3c UE4Editor.exe!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ff7eddc5bba UE4Editor.exe!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ff7eddd3dac UE4Editor.exe!UnknownFunction []
+[2018.12.08-20.51.57:838][499]LogOutputDevice: Error: [Callstack] 0x00007ff7eddd5aaa UE4Editor.exe!UnknownFunction []
+[2018.12.08-20.51.57:839][499]LogOutputDevice: Error: [Callstack] 0x00007ffc02ff3034 KERNEL32.DLL!UnknownFunction []
+[2018.12.08-20.51.57:839][499]LogOutputDevice: Error: [Callstack] 0x00007ffc05ab1471 ntdll.dll!UnknownFunction []
+[2018.12.08-20.51.57:839][499]LogOutputDevice: Error: 
+[2018.12.08-20.51.57:872][499]LogStats:                SubmitErrorReport -  0.032 s
+[2018.12.08-20.52.04:336][499]LogStats:                    SendNewReport -  6.464 s
+[2018.12.08-20.52.04:336][499]LogStats:             FDebug::EnsureFailed -  6.969 s
+[2018.12.08-20.52.04:410][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.52.10:782][ 61]LogEditorTransaction: Undo Modify Component(s)
+[2018.12.08-20.52.11:410][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.52.11:504][122]Cmd: MODE GRID=1
+[2018.12.08-20.52.19:312][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.08-20.53.09:498][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.53.11:289][197]AssetReimport: New page: Outstanding source content changes 20:53:11
+[2018.12.08-20.53.11:290][197]LogEditorFactories: Performing atomic reimport of [C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Extras.png]
+[2018.12.08-20.53.11:290][197]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Extras.png)
+[2018.12.08-20.53.11:974][197]LogEditorFactories: -- imported successfully
+[2018.12.08-20.53.12:031][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterAssets/Textures/Extras" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Extras.uasset" SILENT=true
+[2018.12.08-20.53.12:341][198]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/ExtrasD637C1E6478AFCBEC2EA8DAFABA66731.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Extras.uasset'
+[2018.12.08-20.53.15:351][419]AssetReimport: Reimported asset Extras from C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Extras.png.
+[2018.12.08-20.53.18:190][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.53.24:546][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.53.28:953][656]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Glasses1E4FC32EF4448F97DFEA8058A36D3BEEB.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Extras/Glasses1.uasset'
+[2018.12.08-20.54.02:132][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.54.02:439][773]AssetReimport: New page: Outstanding source content changes 20:54:02
+[2018.12.08-20.54.02:440][773]LogEditorFactories: Performing atomic reimport of [C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Extras.png]
+[2018.12.08-20.54.02:440][773]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Extras.png)
+[2018.12.08-20.54.03:020][773]LogEditorFactories: -- imported successfully
+[2018.12.08-20.54.03:073][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterAssets/Textures/Extras" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Extras.uasset" SILENT=true
+[2018.12.08-20.54.03:423][774]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Extras194DEAFA43CC027A1BB815B29ABF5093.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Extras.uasset'
+[2018.12.08-20.54.06:439][ 36]AssetReimport: Reimported asset Extras from C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/Extras.png.
+[2018.12.08-20.54.10:248][376]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-20.54.30:698][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.54.37:265][712]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/CharacterAssets/CharacterStruct.CharacterStruct
+[2018.12.08-20.56.04:226][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterAssets/CharacterStruct" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/CharacterStruct.uasset" SILENT=true
+[2018.12.08-20.56.04:298][520]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterStruct1B9E0B2B42126E09F297BE8D42CCFB40.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/CharacterStruct.uasset'
+[2018.12.08-20.58.27:300][605]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenu_Auto36319958A4D9023C01DA9DF92B2F5ABFB.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/Menus/Maps/MainMenu_Auto3.umap'
+[2018.12.08-20.58.27:303][605]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Menus/Maps/MainMenu' took 0.721
+[2018.12.08-20.58.27:304][605]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.721
+[2018.12.08-20.58.27:326][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CharacterBP/Blueprints/GTController] ([1] browsable assets)...
+[2018.12.08-20.58.27:326][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterBP/Blueprints/GTController]
+[2018.12.08-20.58.27:447][605]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/GTController_Auto347DB56E54C590F818C19F7AAA847C304.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/CharacterBP/Blueprints/GTController_Auto3.uasset'
+[2018.12.08-20.58.27:468][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menus/Blueprints/CustomisableCharacter] ([1] browsable assets)...
+[2018.12.08-20.58.27:468][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/Blueprints/CustomisableCharacter]
+[2018.12.08-20.58.27:919][605]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacter_Auto3C43076F8497C0C1E1BF44CBFC7B127BE.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/Menus/Blueprints/CustomisableCharacter_Auto3.uasset'
+[2018.12.08-20.58.27:992][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menus/Widgets/MainMenuWidget] ([1] browsable assets)...
+[2018.12.08-20.58.27:992][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/Widgets/MainMenuWidget]
+[2018.12.08-20.58.28:870][605]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget_Auto3D12B4DDB46031D643F70AC97DBF77E40.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/Menus/Widgets/MainMenuWidget_Auto3.uasset'
+[2018.12.08-20.58.28:875][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CharacterBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2018.12.08-20.58.28:875][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterBP/Blueprints/2DSideScrollerCharacter]
+[2018.12.08-20.58.29:489][605]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/2DSideScrollerCharacter_Auto3341CE2E747304C47606723AA732F7E4C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/CharacterBP/Blueprints/2DSideScrollerCharacter_Auto3.uasset'
+[2018.12.08-20.58.29:513][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameData/GTGameInstance] ([1] browsable assets)...
+[2018.12.08-20.58.29:513][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameData/GTGameInstance]
+[2018.12.08-20.58.29:617][605]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/GTGameInstance_Auto3489A6E0D4559FBD16137499C995B0A4B.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/GameData/GTGameInstance_Auto3.uasset'
+[2018.12.08-20.58.29:619][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameData/SaveData/CharacterData] ([1] browsable assets)...
+[2018.12.08-20.58.29:619][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameData/SaveData/CharacterData]
+[2018.12.08-20.58.29:696][605]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterData_Auto329D2BF14456944358D22E289A3820CAF.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/GameData/SaveData/CharacterData_Auto3.uasset'
+[2018.12.08-20.58.29:699][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/ControlPanel] ([1] browsable assets)...
+[2018.12.08-20.58.29:699][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/ControlPanel]
+[2018.12.08-20.58.29:699][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ControlPanel" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/UI/ControlPanel_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.12.08-20.58.29:924][605]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/ControlPanel_Auto36D2ED60648192DE7CCF690B3AE7612B0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/UI/ControlPanel_Auto3.uasset'
+[2018.12.08-20.58.29:925][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Menu/CharacterListing] ([1] browsable assets)...
+[2018.12.08-20.58.29:925][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Menu/CharacterListing]
+[2018.12.08-20.58.30:149][605]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterListing_Auto3C5E7E66F42F519032E0F988D76A3B3B1.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/UI/Menu/CharacterListing_Auto3.uasset'
+[2018.12.08-20.58.30:193][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Menu/Menu] ([1] browsable assets)...
+[2018.12.08-20.58.30:193][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Menu/Menu]
+[2018.12.08-20.58.30:193][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu/Menu" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/UI/Menu/Menu_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.12.08-20.58.30:357][605]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Menu_Auto3A727AA794FCC3E3F490320A0488A0A3E.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/UI/Menu/Menu_Auto3.uasset'
+[2018.12.08-20.58.30:360][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menus/Widgets/CharacterButton] ([1] browsable assets)...
+[2018.12.08-20.58.30:360][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/Widgets/CharacterButton]
+[2018.12.08-20.58.30:550][605]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterButton_Auto34AE9FC3B4C506151CA1A17850C284475.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/Menus/Widgets/CharacterButton_Auto3.uasset'
+[2018.12.08-20.58.30:553][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menus/Widgets/CustomisationButton] ([1] browsable assets)...
+[2018.12.08-20.58.30:553][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/Widgets/CustomisationButton]
+[2018.12.08-20.58.30:911][605]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisationButton_Auto321A08F6D42916F4D857F2892FFC3491D.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Autosaves/Game/Menus/Widgets/CustomisationButton_Auto3.uasset'
+[2018.12.08-20.58.30:913][605]LogFileHelpers: Auto-saving content packages took 3.608
+[2018.12.08-20.59.32:633][795]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-20.59.34:922][848]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacter034C6E294B508733992DB085F4CFB291.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Blueprints/CustomisableCharacter.uasset'
+[2018.12.08-20.59.35:868][918]AssetReimport: New page: Outstanding source content changes 20:59:35
+[2018.12.08-20.59.35:892][918]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/FacialHair.png)
+[2018.12.08-20.59.36:428][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterAssets/Textures/FacialHair" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/FacialHair.uasset" SILENT=true
+[2018.12.08-20.59.36:735][919]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/FacialHair53EE89544318AF4F6CF2FD89D0733F65.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Textures/FacialHair.uasset'
+[2018.12.08-20.59.39:750][182]AssetReimport: Importing new asset /Game/CharacterAssets/Textures/FacialHair.
+[2018.12.08-20.59.57:386][242]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Hair_Facial15E6D9E3D472361BFF3DF6C8CC754AF4E.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Hair_Facial/Hair_Facial1.uasset'
+[2018.12.08-20.59.59:133][403]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/CharacterAssets/Sprites/Hair_Facial/Hair_Facial1.Hair_Facial1
+[2018.12.08-21.00.12:470][598]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Hair_Facial194D1AB2946452C73028B9EBA77DE4E43.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/Sprites/Hair_Facial/Hair_Facial1.uasset'
+[2018.12.08-21.00.14:836][839]LogSlate: Window 'Hair_Facial1' being destroyed
+[2018.12.08-21.00.14:840][839]LogSlate: Window 'Hair_Facial1' being destroyed
+[2018.12.08-21.00.18:490][211]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/CharacterAssets/Sprites/Hair_Backs/Hair_Back1.Hair_Back1
+[2018.12.08-21.00.20:195][374]LogSlate: Window 'Hair_Back1' being destroyed
+[2018.12.08-21.00.20:199][374]LogSlate: Window 'Hair_Back1' being destroyed
+[2018.12.08-21.00.22:078][588]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/CharacterAssets/Sprites/Hair_Facial/Hair_Facial1.Hair_Facial1
+[2018.12.08-21.00.24:645][855]LogSlate: Window 'Hair_Facial1' being destroyed
+[2018.12.08-21.00.24:649][855]LogSlate: Window 'Hair_Facial1' being destroyed
+[2018.12.08-21.00.32:101][734]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CharacterBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2018.12.08-21.00.42:075][722]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Menus/Blueprints/CustomisableCharacter.CustomisableCharacter
+[2018.12.08-21.01.01:742][389]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.08-21.01.05:894][739]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.08-21.01.20:180][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-21.01.20:270][866]Cmd: MODE GRID=0
+[2018.12.08-21.01.27:090][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-21.01.34:662][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-21.01.34:732][183]Cmd: MODE GRID=1
+[2018.12.08-21.01.49:163][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-21.01.49:425][105]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-21.01.49:711][105]LogBlueprint: Error: [Compiler CustomisableCharacter] This blueprint (self) is not a PaperSpriteComponent, therefore ' Target ' must have a connection.
+[2018.12.08-21.01.50:074][105]LogBlueprint: Warning: [Compiler CustomisableCharacter] [7027.25] Compile of CustomisableCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 649 ms] (/Game/Menus/Blueprints/CustomisableCharacter.CustomisableCharacter)
+[2018.12.08-21.01.57:576][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-21.02.17:378][576]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-21.02.20:076][737]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacter423FD6D34885BDDBF7CEE6AEA4728669.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Blueprints/CustomisableCharacter.uasset'
+[2018.12.08-21.02.25:591][234]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.12.08-21.02.27:309][273]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/2DSideScrollerCharacterC6BD2AA34E67B21008DF8FA1687D9CE7.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.12.08-21.03.10:533][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-21.03.44:923][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-21.03.45:015][847]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.12.08-21.03.48:398][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-21.04.11:196][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-21.04.21:005][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-21.04.21:074][842]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.12.08-21.04.22:480][872]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/2DSideScrollerCharacter084937F34535DCD00769ED901C7AC37B.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.12.08-21.04.30:897][748]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/Widgets/MainMenuWidget.MainMenuWidget
+[2018.12.08-21.05.01:445][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-21.05.02:045][199]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget62E9869945471E9D5DDFCF9C94BE7783.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-21.05.02:366][227]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-21.05.09:930][710]LogSlate: Window 'Save Content' being destroyed
+[2018.12.08-21.05.09:956][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterBP/Blueprints/GTController" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterBP/Blueprints/GTController.uasset" SILENT=true
+[2018.12.08-21.05.10:076][710]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/GTController2EE69B1E427BCEA809CFE88258ACFDE5.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterBP/Blueprints/GTController.uasset'
+[2018.12.08-21.05.10:088][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameData/GTGameInstance" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/GameData/GTGameInstance.uasset" SILENT=true
+[2018.12.08-21.05.10:218][710]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/GTGameInstance7491B63341EF06711B5762800E60600D.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/GameData/GTGameInstance.uasset'
+[2018.12.08-21.05.10:230][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameData/SaveData/CharacterData" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/GameData/SaveData/CharacterData.uasset" SILENT=true
+[2018.12.08-21.05.10:285][710]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterDataC3AD4C2947BD4DCC20E68F8E8EF53D96.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/GameData/SaveData/CharacterData.uasset'
+[2018.12.08-21.05.10:415][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Maps/MainMenu" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.08-21.05.10:534][710]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuAF2621374181D323ED534E8C2E7104F2.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Maps/MainMenu.umap'
+[2018.12.08-21.05.10:618][710]LogFileHelpers: Saving map 'MainMenu' took 0.323
+[2018.12.08-21.05.10:621][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/CharacterButton" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CharacterButton.uasset" SILENT=true
+[2018.12.08-21.05.10:697][710]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterButtonDA6516EF49FEC3C321CDBA80722DE51F.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CharacterButton.uasset'
+[2018.12.08-21.05.10:707][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/CustomisationButton" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset" SILENT=true
+[2018.12.08-21.05.11:014][710]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisationButton6A134397453CCF55EDF8C4BE73081023.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset'
+[2018.12.08-21.05.11:023][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ControlPanel" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/ControlPanel.uasset" SILENT=true
+[2018.12.08-21.05.11:180][710]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/ControlPanelFBE5A66B4AF58C89BFA72C9582915181.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/ControlPanel.uasset'
+[2018.12.08-21.05.11:189][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu/CharacterListing" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/Menu/CharacterListing.uasset" SILENT=true
+[2018.12.08-21.05.11:309][710]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterListingF5E2F70E4AA03379856A3195102FB0E3.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/Menu/CharacterListing.uasset'
+[2018.12.08-21.05.11:317][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu/Menu" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/Menu/Menu.uasset" SILENT=true
+[2018.12.08-21.05.11:412][710]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MenuBA04B21842C11DADEDC67D8FA8E0D306.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/Menu/Menu.uasset'
+[2018.12.08-21.05.11:913][765]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/Widgets/CharacterButton.CharacterButton
+[2018.12.08-21.05.17:895][237]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameData/GTGameInstance.GTGameInstance
+[2018.12.08-21.05.31:189][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-21.05.31:775][306]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget56308F7F4D264B65687254B149309A53.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-21.05.32:096][332]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-21.05.39:629][945]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/Widgets/CustomisationButton.CustomisationButton
+[2018.12.08-21.06.44:107][172]BlueprintLog: New page: Compile CustomisationButton
+[2018.12.08-21.06.44:948][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/CustomisationButton" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset" SILENT=true
+[2018.12.08-21.06.45:247][190]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisationButtonFEBE10214C790D2C0F50E9A2DDC59BC6.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset'
+[2018.12.08-21.06.47:129][371]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Menus/Widgets/CustomisationStruct.CustomisationStruct
+[2018.12.08-21.06.52:534][957]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/CharacterAssets/CharacterStruct.CharacterStruct
+[2018.12.08-21.07.55:043][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterAssets/CharacterStruct" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/CharacterStruct.uasset" SILENT=true
+[2018.12.08-21.07.55:131][831]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterStruct39772670464558071E40CF8DBE0380E4.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/CharacterStruct.uasset'
+[2018.12.08-21.07.59:623][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Maps/MainMenu" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.08-21.07.59:742][250]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuBF7A741D4BF5B54E5393C3AFD1F1AEDA.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Maps/MainMenu.umap'
+[2018.12.08-21.07.59:840][250]LogFileHelpers: Saving map 'MainMenu' took 0.331
+[2018.12.08-21.07.59:844][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterBP/Blueprints/GTController" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterBP/Blueprints/GTController.uasset" SILENT=true
+[2018.12.08-21.07.59:949][250]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/GTController55AB972D49CB066B2650F0889BC02673.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterBP/Blueprints/GTController.uasset'
+[2018.12.08-21.08.00:395][250]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacter2A2883434B0B91175A39B6A2638CBFED.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Blueprints/CustomisableCharacter.uasset'
+[2018.12.08-21.08.00:401][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-21.08.00:978][250]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget6F233986477E735B40DD8CBBCCC202CC.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-21.08.01:395][250]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/2DSideScrollerCharacter7639D6034FAA88C6B1ED27B973AE54C4.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.12.08-21.08.01:401][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameData/GTGameInstance" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/GameData/GTGameInstance.uasset" SILENT=true
+[2018.12.08-21.08.01:464][250]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/GTGameInstanceC476B34A4CCA4743430EA3B41BA381EE.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/GameData/GTGameInstance.uasset'
+[2018.12.08-21.08.01:469][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameData/SaveData/CharacterData" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/GameData/SaveData/CharacterData.uasset" SILENT=true
+[2018.12.08-21.08.01:519][250]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterData2F8A952F4C97DD99E6A7BDB346384F7C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/GameData/SaveData/CharacterData.uasset'
+[2018.12.08-21.08.01:525][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ControlPanel" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/ControlPanel.uasset" SILENT=true
+[2018.12.08-21.08.01:669][250]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/ControlPanelD178A6DA4941B71622FA119E9E8155BC.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/ControlPanel.uasset'
+[2018.12.08-21.08.01:675][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu/CharacterListing" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/Menu/CharacterListing.uasset" SILENT=true
+[2018.12.08-21.08.01:781][250]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterListing1D4510E94FA7F84CAE88F98248179E37.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/Menu/CharacterListing.uasset'
+[2018.12.08-21.08.01:786][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu/Menu" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/Menu/Menu.uasset" SILENT=true
+[2018.12.08-21.08.01:863][250]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Menu6704B4EC41454BF30E692E9A7B4E20A2.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/Menu/Menu.uasset'
+[2018.12.08-21.08.01:867][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/CharacterButton" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CharacterButton.uasset" SILENT=true
+[2018.12.08-21.08.01:933][250]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterButton60466ADE43AAF6F5DD148B93976A9E60.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CharacterButton.uasset'
+[2018.12.08-21.08.01:938][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/CustomisationButton" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset" SILENT=true
+[2018.12.08-21.08.02:242][250]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisationButtonB34CF03E4E67BA609DB575A4EC56B051.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset'
+[2018.12.08-21.08.13:083][ 94]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-21.08.15:177][125]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacter381B77D74ECEF45DC8CDB2A33802562D.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Blueprints/CustomisableCharacter.uasset'
+[2018.12.08-21.08.20:533][489]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.12.08-21.08.22:031][496]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/2DSideScrollerCharacter3A8481E946E4389F7147708E8E5BE401.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.12.08-21.12.03:854][594]LogEditorTransaction: Undo Move Node
+[2018.12.08-21.12.23:929][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/CustomisationButton" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset" SILENT=true
+[2018.12.08-21.12.24:265][ 84]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisationButtonE279FD0F467AFF8674E7739618C9D7D2.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset'
+[2018.12.08-21.12.24:851][127]BlueprintLog: New page: Compile CustomisationButton
+[2018.12.08-21.13.24:733][438]LogEditorTransaction: Undo Resize Node
+[2018.12.08-21.14.02:842][831]BlueprintLog: New page: Compile CustomisationButton
+[2018.12.08-21.14.03:830][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/CustomisationButton" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset" SILENT=true
+[2018.12.08-21.14.04:164][849]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisationButtonC232628948EC7E39AB4672BDE5B83C7D.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset'
+[2018.12.08-21.15.08:964][873]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-21.15.59:455][871]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-21.16.01:005][897]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacterAABC92704545B13137F82E9B0EEAABD6.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Blueprints/CustomisableCharacter.uasset'
+[2018.12.08-21.18.28:804][845]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-21.18.29:085][845]LogBlueprint: Error: [Compiler CustomisableCharacter] This blueprint (self) is not a MaterialInstanceDynamic, therefore ' Target ' must have a connection.
+[2018.12.08-21.18.29:085][845]LogBlueprint: Error: [Compiler CustomisableCharacter] This blueprint (self) is not a MaterialInstanceDynamic, therefore ' Target ' must have a connection.
+[2018.12.08-21.18.29:401][845]LogBlueprint: Warning: [Compiler CustomisableCharacter] [8026.58] Compile of CustomisableCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 596 ms] (/Game/Menus/Blueprints/CustomisableCharacter.CustomisableCharacter)
+[2018.12.08-21.18.35:771][264]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-21.18.36:043][264]LogBlueprint: Error: [Compiler CustomisableCharacter] This blueprint (self) is not a MaterialInstanceDynamic, therefore ' Target ' must have a connection.
+[2018.12.08-21.18.36:355][264]LogBlueprint: Warning: [Compiler CustomisableCharacter] [8033.53] Compile of CustomisableCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 583 ms] (/Game/Menus/Blueprints/CustomisableCharacter.CustomisableCharacter)
+[2018.12.08-21.18.39:543][469]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-21.18.41:166][497]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacter87F6D5654F6BF10BD77D1AA5F4A58AEB.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Blueprints/CustomisableCharacter.uasset'
+[2018.12.08-21.19.08:383][485]BlueprintLog: New page: Compile CustomisableCharacter
+[2018.12.08-21.19.10:313][519]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacter955F71394077B4C81AFF37A6B5455C8C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Blueprints/CustomisableCharacter.uasset'
+[2018.12.08-21.19.40:802][500]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.08-21.19.44:557][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterAssets/CharacterStruct" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/CharacterStruct.uasset" SILENT=true
+[2018.12.08-21.19.44:625][865]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterStruct4067ECB344D837EDEF36B08A70626A79.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterAssets/CharacterStruct.uasset'
+[2018.12.08-21.19.47:250][ 12]BlueprintLog: New page: Compile CustomisationButton
+[2018.12.08-21.19.48:439][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/CustomisationButton" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset" SILENT=true
+[2018.12.08-21.19.48:794][ 30]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisationButtonB6A157D34CA1EB750E0CD9B2236F7113.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset'
+[2018.12.08-21.19.50:537][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Maps/MainMenu" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.08-21.19.50:654][100]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenu9CB531244F09578BA66D1583FA2E85D9.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Maps/MainMenu.umap'
+[2018.12.08-21.19.50:734][100]LogFileHelpers: Saving map 'MainMenu' took 0.313
+[2018.12.08-21.19.50:737][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CharacterBP/Blueprints/GTController" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterBP/Blueprints/GTController.uasset" SILENT=true
+[2018.12.08-21.19.50:843][100]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/GTController935E23DB43ABBE9B30303ABB3DD599C5.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterBP/Blueprints/GTController.uasset'
+[2018.12.08-21.19.51:289][100]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisableCharacterA5D61A4C42A11714B9B572927309F4BB.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Blueprints/CustomisableCharacter.uasset'
+[2018.12.08-21.19.51:295][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-21.19.51:884][100]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidgetFDD5A9724AB064E14DB393B52DB4C630.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-21.19.52:294][100]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/2DSideScrollerCharacter4184FC744CEFE006A8CA68915A1B8A68.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.12.08-21.19.52:301][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameData/GTGameInstance" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/GameData/GTGameInstance.uasset" SILENT=true
+[2018.12.08-21.19.52:371][100]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/GTGameInstance8386C9594A439D0521D2BA85B1F03DF7.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/GameData/GTGameInstance.uasset'
+[2018.12.08-21.19.52:376][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameData/SaveData/CharacterData" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/GameData/SaveData/CharacterData.uasset" SILENT=true
+[2018.12.08-21.19.52:436][100]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterData247791244576F69D859B738BD6C12FAF.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/GameData/SaveData/CharacterData.uasset'
+[2018.12.08-21.19.52:441][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ControlPanel" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/ControlPanel.uasset" SILENT=true
+[2018.12.08-21.19.52:599][100]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/ControlPanelB6C0D255461652B6AF639EB9D34BC330.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/ControlPanel.uasset'
+[2018.12.08-21.19.52:605][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu/CharacterListing" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/Menu/CharacterListing.uasset" SILENT=true
+[2018.12.08-21.19.52:726][100]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterListingB8428F1C4B307F6B6B953B932F27A6A0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/Menu/CharacterListing.uasset'
+[2018.12.08-21.19.52:730][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu/Menu" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/Menu/Menu.uasset" SILENT=true
+[2018.12.08-21.19.52:828][100]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/Menu7C914F4D49AFCE9C1E7C61AAC3BF77D5.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/UI/Menu/Menu.uasset'
+[2018.12.08-21.19.52:833][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/CharacterButton" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CharacterButton.uasset" SILENT=true
+[2018.12.08-21.19.52:912][100]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CharacterButtonE97D0A694D7F9CC808469B8C52C32D73.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CharacterButton.uasset'
+[2018.12.08-21.20.04:157][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/CustomisationButton" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset" SILENT=true
+[2018.12.08-21.20.04:505][891]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisationButton6088CE76412189F134AE6CB8E5495CA5.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset'
+[2018.12.08-21.20.04:826][912]BlueprintLog: New page: Compile CustomisationButton
+[2018.12.08-21.20.31:655][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-21.20.32:222][591]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidgetAFD560E34F003F5991187D8AD67B3428.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-21.20.56:155][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-21.20.56:758][826]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidgetB1F9EFAE445467442392489F25AE16A3.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-21.20.57:485][898]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-21.21.15:157][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-21.21.15:757][371]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidgetBBE6D8D341F04C568ED966A7A0C46538.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-21.21.15:943][389]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-21.21.17:209][389]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-21.21.34:583][959]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-21.21.35:152][959]LogBlueprint: Error: [Compiler MainMenuWidget] Binding: Property ' Brush Delegate ' on Widget ' Image_13 ': Binding: 'None' : 'None' was not found on 'Main Menu Widget'.
+[2018.12.08-21.21.35:895][959]LogBlueprint: Warning: [Compiler MainMenuWidget] [8213.07] Compile of MainMenuWidget failed. 1 Fatal Issue(s) 0 Warning(s) [in 1,312 ms] (/Game/Menus/Widgets/MainMenuWidget.MainMenuWidget)
+[2018.12.08-21.21.36:434][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-21.21.37:039][999]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget616778B84B85ADEE21C623B2F464F6DC.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-21.21.41:981][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-21.21.42:530][401]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidget002193354BCC12E03C7340B25C8483DA.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-21.21.43:079][452]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-21.21.43:581][452]LogBlueprint: Error: [Compiler MainMenuWidget] Binding: Property ' Brush Delegate ' on Widget ' Image_13 ': Binding: 'None' : 'None' was not found on 'Main Menu Widget'.
+[2018.12.08-21.21.44:319][452]LogBlueprint: Warning: [Compiler MainMenuWidget] [8221.50] Compile of MainMenuWidget failed. 1 Fatal Issue(s) 0 Warning(s) [in 1,239 ms] (/Game/Menus/Widgets/MainMenuWidget.MainMenuWidget)
+[2018.12.08-21.21.55:613][472]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_13), cannot focus it
+[2018.12.08-21.21.56:135][520]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_13), cannot focus it
+[2018.12.08-21.21.56:809][579]LogBlueprint: Warning: Unknown type of hyperlinked object (BrushDelegate), cannot focus it
+[2018.12.08-21.22.33:655][898]LogSlate: Window 'Save Asset As' being destroyed
+[2018.12.08-21.22.46:786][375]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-21.22.48:791][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-21.22.49:460][393]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidgetF328FBA14C88D5E7BF3D029D27806ABC.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-21.22.51:725][561]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.08-21.22.51:790][561]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.08-21.22.51:816][561]LogPlayLevel: [PlayLevel] Compiling ObjectBase before play...
+[2018.12.08-21.22.51:823][561]LogPlayLevel: [PlayLevel]   Compiling OutOfCharacterPawn as a dependent...
+[2018.12.08-21.22.51:834][561]LogPlayLevel: [PlayLevel]   Compiling 2DSideScrollerGameMode as a dependent...
+[2018.12.08-21.22.51:842][561]LogPlayLevel: [PlayLevel]   Compiling CharacterListing as a dependent...
+[2018.12.08-21.22.51:862][561]LogPlayLevel: [PlayLevel]   Compiling ChatWindow as a dependent...
+[2018.12.08-21.22.51:873][561]LogPlayLevel: [PlayLevel]   Compiling ControlPanel as a dependent...
+[2018.12.08-21.22.51:915][561]LogPlayLevel: [PlayLevel]   Compiling GTController as a dependent...
+[2018.12.08-21.22.51:930][561]LogPlayLevel: [PlayLevel]   Compiling Menu as a dependent...
+[2018.12.08-21.22.51:949][561]LogPlayLevel: [PlayLevel]   Compiling 2DSideScrollerCharacter as a dependent...
+[2018.12.08-21.22.52:454][561]LogPlayLevel: [PlayLevel] Compiling CharacterData before play...
+[2018.12.08-21.22.52:481][561]LogPlayLevel: [PlayLevel] Compiling GTGameInstance before play...
+[2018.12.08-21.22.52:778][561]LogPlayLevel: [PlayLevel] Compiling CustomisationButton before play...
+[2018.12.08-21.22.52:873][561]LogPlayLevel: [PlayLevel]   Compiling MainMenuWidget as a dependent...
+[2018.12.08-21.22.53:016][561]LogPlayLevel: [PlayLevel]   Compiling CustomisableCharacter as a dependent...
+[2018.12.08-21.22.53:779][561]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2018.12.08-21.22.53:935][561]LogPlayLevel: PlayLevel: Blueprint regeneration took 2144 ms (15 blueprints)
+[2018.12.08-21.22.53:935][561]LogHMD: Initializing OVRPlugin session
+[2018.12.08-21.22.53:980][561]PIE: New page: PIE session: MainMenu (8 Dec 2018 21:22:53)
+[2018.12.08-21.22.53:987][561]LogPlayLevel: Creating play world package: /Game/Menus/Maps/UEDPIE_0_MainMenu
+[2018.12.08-21.22.53:990][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002621s)
+[2018.12.08-21.22.53:990][561]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.08-21.22.53:991][561]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2018.12.08-21.22.53:991][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menus/Maps/MainMenu.MainMenu to /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu (0.003915s)
+[2018.12.08-21.22.54:047][561]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.08-21.22.54:059][561]LogInit: FAudioDevice initialized.
+[2018.12.08-21.22.54:089][561]LogLoad: Game class is 'MenuGameMode_C'
+[2018.12.08-21.22.54:090][561]LogWorld: Bringing World /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.08-21.22.54
+[2018.12.08-21.22.54:091][561]LogWorld: Bringing up level for play took: 0.000775
+[2018.12.08-21.22.54:126][561]PIE: Play in editor start time for /Game/Menus/Maps/UEDPIE_0_MainMenu 1.947
+[2018.12.08-21.23.00:889][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-21.23.00:924][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-21.23.00:961][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-21.23.00:983][360]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2018.12.08-21.23.27:291][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/MainMenuWidget" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset" SILENT=true
+[2018.12.08-21.23.27:997][487]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/MainMenuWidgetA1C92F0843A9413E99E0EC861B1A75D8.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/MainMenuWidget.uasset'
+[2018.12.08-21.23.28:495][532]BlueprintLog: New page: Compile MainMenuWidget
+[2018.12.08-21.23.32:345][762]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.08-21.23.32:402][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-21.23.32:402][762]LogHMD: Initializing OVRPlugin session
+[2018.12.08-21.23.32:441][762]PIE: New page: PIE session: MainMenu (8 Dec 2018 21:23:32)
+[2018.12.08-21.23.32:442][762]LogPlayLevel: Creating play world package: /Game/Menus/Maps/UEDPIE_0_MainMenu
+[2018.12.08-21.23.32:444][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001736s)
+[2018.12.08-21.23.32:444][762]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.08-21.23.32:444][762]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2018.12.08-21.23.32:444][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menus/Maps/MainMenu.MainMenu to /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu (0.002584s)
+[2018.12.08-21.23.32:506][762]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.08-21.23.32:517][762]LogInit: FAudioDevice initialized.
+[2018.12.08-21.23.32:547][762]LogLoad: Game class is 'MenuGameMode_C'
+[2018.12.08-21.23.32:548][762]LogWorld: Bringing World /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.08-21.23.32
+[2018.12.08-21.23.32:548][762]LogWorld: Bringing up level for play took: 0.000953
+[2018.12.08-21.23.32:588][762]PIE: Play in editor start time for /Game/Menus/Maps/UEDPIE_0_MainMenu 0.41
+[2018.12.08-21.23.44:542][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-21.23.44:584][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-21.23.44:624][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-21.23.44:644][178]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2018.12.08-21.24.09:529][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/CustomisationButton" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset" SILENT=true
+[2018.12.08-21.24.09:880][926]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisationButton612A05664304139F98500BB081AC023C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset'
+[2018.12.08-21.24.10:621][978]BlueprintLog: New page: Compile CustomisationButton
+[2018.12.08-21.24.19:346][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Widgets/CustomisationButton" FILE="../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset" SILENT=true
+[2018.12.08-21.24.19:713][626]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/CustomisationButton3392D1704CD25DAA1561C988F29EB72A.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/Menus/Widgets/CustomisationButton.uasset'
+[2018.12.08-21.24.21:024][722]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.08-21.24.21:074][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-21.24.21:074][722]LogHMD: Initializing OVRPlugin session
+[2018.12.08-21.24.21:113][722]PIE: New page: PIE session: MainMenu (8 Dec 2018 21:24:21)
+[2018.12.08-21.24.21:114][722]LogPlayLevel: Creating play world package: /Game/Menus/Maps/UEDPIE_0_MainMenu
+[2018.12.08-21.24.21:115][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001608s)
+[2018.12.08-21.24.21:116][722]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.08-21.24.21:116][722]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2018.12.08-21.24.21:116][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menus/Maps/MainMenu.MainMenu to /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu (0.002415s)
+[2018.12.08-21.24.21:183][722]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.08-21.24.21:195][722]LogInit: FAudioDevice initialized.
+[2018.12.08-21.24.21:229][722]LogLoad: Game class is 'MenuGameMode_C'
+[2018.12.08-21.24.21:230][722]LogWorld: Bringing World /Game/Menus/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.08-21.24.21
+[2018.12.08-21.24.21:230][722]LogWorld: Bringing up level for play took: 0.000965
+[2018.12.08-21.24.21:268][722]PIE: Play in editor start time for /Game/Menus/Maps/UEDPIE_0_MainMenu 1.09
+[2018.12.08-21.24.37:434][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-21.24.37:479][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-21.24.37:517][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-21.24.37:544][448]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2018.12.08-21.25.58:680][582]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Saved/2DSideScrollerCharacterBBA3410446CDDB0479BDC4BEE088480A.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/GTRP/Content/CharacterBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.12.08-21.25.59:085][614]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.12.08-21.26.47:428][505]LogEditorTransaction: Undo Create Pin Link
+[2018.12.08-21.26.47:851][525]LogEditorTransaction: Undo Move Nodes
+[2018.12.08-21.26.48:233][552]LogEditorTransaction: Undo Paste clipboard contents
+[2018.12.08-21.26.48:633][587]LogEditorTransaction: Undo Delete current selection
+[2018.12.08-21.26.49:799][686]LogEditorTransaction: Redo Delete current selection
+[2018.12.08-21.26.50:097][707]LogEditorTransaction: Redo Paste clipboard contents
+[2018.12.08-21.26.50:312][707]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.196 s
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: 
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: Ensure condition failed: ChangedObjects.Num() != 0 [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\EditorTransaction.cpp] [Line: 493]
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: 
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: Stack: 
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd2d671f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd2aa0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd2abb356 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb85ccbcb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbac1be3ea UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbac1c24a9 UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbac1c312c UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbac1c376e UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbac1c20fc UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbca3a9d57 UE4Editor-BlueprintGraph.dll!UK2Node::Serialize() []
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbca3aa1b7 UE4Editor-BlueprintGraph.dll!UK2Node_CallFunction::Serialize() []
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd6fe4b5b UE4Editor-CoreUObject.dll!StaticDuplicateObjectEx() []
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb83eda6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbbe853036 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::ProcessOneFunctionGraph() []
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbbe8242b7 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CreateFunctionList() []
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbbe8101a2 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CompileClassLayout() []
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbbe80e7cf UE4Editor-KismetCompiler.dll!FNodeHandlingFunctor::Compile() []
+[2018.12.08-21.26.50:312][707]LogOutputDevice: Error: [Callstack] 0x00007ffbbe80d83d UE4Editor-KismetCompiler.dll!FNodeHandlingFunctor::Compile() []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb88f4713 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbbeede4cd UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbbef397e9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb8524ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb854ffab UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb8536535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb85a2dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb85d4a2a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb856c784 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbbed705b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd75824df UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd75c437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb8dd3a8e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb8dc1a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd75470ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd75c606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd75b9846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d2ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d20270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d2f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d1c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffc05586d41 USER32.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffc05586713 USER32.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d30646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ff7eddb54e5 UE4Editor.exe!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ff7eddc5b3c UE4Editor.exe!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ff7eddc5bba UE4Editor.exe!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ff7eddd3dac UE4Editor.exe!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ff7eddd5aaa UE4Editor.exe!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffc02ff3034 KERNEL32.DLL!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: [Callstack] 0x00007ffc05ab1471 ntdll.dll!UnknownFunction []
+[2018.12.08-21.26.50:313][707]LogOutputDevice: Error: 
+[2018.12.08-21.26.50:314][707]LogStats:                SubmitErrorReport -  0.000 s
+[2018.12.08-21.26.50:740][707]LogStats:                    SendNewReport -  0.427 s
+[2018.12.08-21.26.50:741][707]LogStats:             FDebug::EnsureFailed -  0.625 s
+[2018.12.08-21.26.50:742][707]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: 
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: Ensure condition failed: Pin->LinkedTo.Contains(ReferencingPin) || GEditor->Trans->IsObjectTransacting(Pin->GetOwningNode()) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 1728]
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: 
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: Stack: 
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd2d671f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd2aa0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd2abb356 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbac1be419 UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbac1c24a9 UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbac1c312c UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbac1c376e UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbac1c20fc UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbca3a9d57 UE4Editor-BlueprintGraph.dll!UK2Node::Serialize() []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbca3aa1b7 UE4Editor-BlueprintGraph.dll!UK2Node_CallFunction::Serialize() []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd6fe4b5b UE4Editor-CoreUObject.dll!StaticDuplicateObjectEx() []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb83eda6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbbe853036 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::ProcessOneFunctionGraph() []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbbe8242b7 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CreateFunctionList() []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbbe8101a2 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CompileClassLayout() []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbbe80e7cf UE4Editor-KismetCompiler.dll!FNodeHandlingFunctor::Compile() []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbbe80d83d UE4Editor-KismetCompiler.dll!FNodeHandlingFunctor::Compile() []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb88f4713 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbbeede4cd UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbbef397e9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb8524ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb854ffab UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb8536535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb85a2dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb85d4a2a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:742][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb856c784 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ffbbed705b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd75824df UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd75c437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb8dd3a8e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ffbb8dc1a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd75470ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd75c606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd75b9846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d2ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d20270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d2f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d1c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ffc05586d41 USER32.dll!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ffc05586713 USER32.dll!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ffbd7d30646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ff7eddb54e5 UE4Editor.exe!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ff7eddc5b3c UE4Editor.exe!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ff7eddc5bba UE4Editor.exe!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ff7eddd3dac UE4Editor.exe!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ff7eddd5aaa UE4Editor.exe!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ffc02ff3034 KERNEL32.DLL!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: [Callstack] 0x00007ffc05ab1471 ntdll.dll!UnknownFunction []
+[2018.12.08-21.26.50:743][707]LogOutputDevice: Error: 
+[2018.12.08-21.26.50:752][707]LogStats:                SubmitErrorReport -  0.000 s
